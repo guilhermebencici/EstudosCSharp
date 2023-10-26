@@ -1,0 +1,8 @@
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\C# - Iniciantes_4Projetos\AulaCSharp\Listas\bin\Debug\Listas.exe.config
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\C# - Iniciantes_4Projetos\AulaCSharp\Listas\bin\Debug\Listas.exe
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\C# - Iniciantes_4Projetos\AulaCSharp\Listas\bin\Debug\Listas.pdb
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\C# - Iniciantes_4Projetos\AulaCSharp\Listas\obj\Debug\Listas.csproj.AssemblyReference.cache
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\C# - Iniciantes_4Projetos\AulaCSharp\Listas\obj\Debug\Listas.csproj.SuggestedBindingRedirects.cache
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\C# - Iniciantes_4Projetos\AulaCSharp\Listas\obj\Debug\Listas.csproj.CoreCompileInputs.cache
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\C# - Iniciantes_4Projetos\AulaCSharp\Listas\obj\Debug\Listas.exe
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\C# - Iniciantes_4Projetos\AulaCSharp\Listas\obj\Debug\Listas.pdb

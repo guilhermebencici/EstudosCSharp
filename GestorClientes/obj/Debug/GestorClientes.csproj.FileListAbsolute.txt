@@ -1,0 +1,8 @@
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\C# - Iniciantes_4Projetos\AulaCSharp\GestorClientes\bin\Debug\GestorClientes.exe.config
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\C# - Iniciantes_4Projetos\AulaCSharp\GestorClientes\bin\Debug\GestorClientes.exe
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\C# - Iniciantes_4Projetos\AulaCSharp\GestorClientes\bin\Debug\GestorClientes.pdb
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\C# - Iniciantes_4Projetos\AulaCSharp\GestorClientes\obj\Debug\GestorClientes.csproj.AssemblyReference.cache
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\C# - Iniciantes_4Projetos\AulaCSharp\GestorClientes\obj\Debug\GestorClientes.csproj.SuggestedBindingRedirects.cache
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\C# - Iniciantes_4Projetos\AulaCSharp\GestorClientes\obj\Debug\GestorClientes.csproj.CoreCompileInputs.cache
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\C# - Iniciantes_4Projetos\AulaCSharp\GestorClientes\obj\Debug\GestorClientes.exe
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\C# - Iniciantes_4Projetos\AulaCSharp\GestorClientes\obj\Debug\GestorClientes.pdb

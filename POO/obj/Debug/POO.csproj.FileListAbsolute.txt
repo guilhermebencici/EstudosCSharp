@@ -1,0 +1,8 @@
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\C# - Iniciantes_4Projetos\AulaCSharp\POO\bin\Debug\POO.exe.config
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\C# - Iniciantes_4Projetos\AulaCSharp\POO\bin\Debug\POO.exe
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\C# - Iniciantes_4Projetos\AulaCSharp\POO\bin\Debug\POO.pdb
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\C# - Iniciantes_4Projetos\AulaCSharp\POO\obj\Debug\POO.csproj.AssemblyReference.cache
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\C# - Iniciantes_4Projetos\AulaCSharp\POO\obj\Debug\POO.csproj.SuggestedBindingRedirects.cache
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\C# - Iniciantes_4Projetos\AulaCSharp\POO\obj\Debug\POO.csproj.CoreCompileInputs.cache
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\C# - Iniciantes_4Projetos\AulaCSharp\POO\obj\Debug\POO.exe
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\C# - Iniciantes_4Projetos\AulaCSharp\POO\obj\Debug\POO.pdb
