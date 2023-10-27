@@ -6,7 +6,9 @@ using System.Threading.Tasks;
 
 namespace GestorEstoque
 {
-     class Ebook : Produto
+    [System.Serializable]
+
+    class Ebook : Produto, IEstoque
     {
         public string autor;
         private int vendas;
@@ -15,6 +17,23 @@ namespace GestorEstoque
         {   this.nome = nome; 
             this.preco = preco;
             this.autor = autor;
+        }
+
+        public void AdicionarEntrada()
+        {
+        }
+
+        public void AdicionarSaida()
+        {
+        }
+
+        public void Exibir()
+        {
+            Console.WriteLine($"Nome: {nome}");
+            Console.WriteLine($"Preço: {preco}");
+            Console.WriteLine($"Vedas: {vendas}");
+            Console.WriteLine($"Autor: {autor}");
+            Console.WriteLine("================================================================");
         }
     }
 }

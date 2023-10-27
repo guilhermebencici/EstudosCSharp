@@ -6,36 +6,38 @@ using System.Threading.Tasks;
 
 namespace GestorEstoque
 {
-    [System.Serializable]
-
-    class Curso : Produto, IEstoque
+    [System.Serializable] // mostra ao C# que esse dado pode ser salvo no arquivo
+     class ProdutoFisico : Produto, IEstoque
     {
-        public string autor;
-        private int vagas;
+        public float frete;
+        private int estoque;
 
-        public Curso(string nome, float preco, string autor)
-        {   
+        public ProdutoFisico(string nome, float preco, float frete)
+        {
             this.nome = nome;
             this.preco = preco;
-            this.autor = autor;
+            this.frete = frete;
         }
 
         public void AdicionarEntrada()
         {
-           
+
         }
 
         public void AdicionarSaida()
         {
+            
         }
 
         public void Exibir()
         {
             Console.WriteLine($"Nome: {nome}");
+            Console.WriteLine($"Frete: {frete}");
             Console.WriteLine($"Preço: {preco}");
-            Console.WriteLine($"Vagas restantes: {vagas}");
-            Console.WriteLine($"Autor: {autor}");
+            Console.WriteLine($"Estoque: {estoque}");
             Console.WriteLine("================================================================");
         }
+
+        
     }
 }

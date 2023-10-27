@@ -6,11 +6,10 @@ using System.Threading.Tasks;
 
 namespace GestorEstoque
 {
-    [System.Serializable]
-
-    abstract internal class Produto
-    {
-        public string nome;
-        public float preco;
-    }
+     interface IEstoque
+     {
+        void Exibir();
+        void AdicionarEntrada();
+        void AdicionarSaida();
+     }
 }
