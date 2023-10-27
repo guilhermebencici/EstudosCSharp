@@ -1,0 +1,8 @@
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\C# - Iniciantes_4Projetos\AulaCSharp\HTTP\bin\Debug\HTTP.exe.config
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\C# - Iniciantes_4Projetos\AulaCSharp\HTTP\bin\Debug\HTTP.exe
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\C# - Iniciantes_4Projetos\AulaCSharp\HTTP\bin\Debug\HTTP.pdb
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\C# - Iniciantes_4Projetos\AulaCSharp\HTTP\obj\Debug\HTTP.csproj.AssemblyReference.cache
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\C# - Iniciantes_4Projetos\AulaCSharp\HTTP\obj\Debug\HTTP.csproj.SuggestedBindingRedirects.cache
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\C# - Iniciantes_4Projetos\AulaCSharp\HTTP\obj\Debug\HTTP.csproj.CoreCompileInputs.cache
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\C# - Iniciantes_4Projetos\AulaCSharp\HTTP\obj\Debug\HTTP.exe
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\C# - Iniciantes_4Projetos\AulaCSharp\HTTP\obj\Debug\HTTP.pdb
