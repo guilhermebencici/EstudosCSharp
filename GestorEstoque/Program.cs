@@ -39,8 +39,10 @@ namespace GestorEstoque
                             Remover();
                             break;
                         case Menu.Entrada:
+                            Entrada();
                             break;
                         case Menu.Saida:
+                            Saida();
                             break;
                         case Menu.Sair:
                             escolheuSair = true;
@@ -72,13 +74,41 @@ namespace GestorEstoque
         static void Remover()
         {
             Listagem();
-            Console.WriteLine("Digiteo ID do elemente que sera removido: ");
+            Console.WriteLine("Digiteo ID do elemento que sera removido: ");
             int id = int.Parse(Console.ReadLine());
 
             if(id >= 0 && id < produtos.Count)
             {
                 produtos.RemoveAt(id);
                 Console.WriteLine($"O {id} foi removido!");
+                Console.ReadLine();
+                Salvar();
+            }
+        }
+
+        static void Entrada()
+        {
+            Listagem();
+            Console.WriteLine("Digiteo ID do elemento para entrada: ");
+            int id = int.Parse(Console.ReadLine());
+
+            if (id >= 0 && id < produtos.Count)
+            {
+                produtos[id].AdicionarEntrada();
+                Console.ReadLine();
+                Salvar();
+            }
+        }
+
+        static void Saida()
+        {
+            Listagem();
+            Console.WriteLine("Digiteo ID do elemento para baixa: ");
+            int id = int.Parse(Console.ReadLine());
+
+            if (id >= 0 && id < produtos.Count)
+            {
+                produtos[id].AdicionarSaida();
                 Console.ReadLine();
                 Salvar();
             }
