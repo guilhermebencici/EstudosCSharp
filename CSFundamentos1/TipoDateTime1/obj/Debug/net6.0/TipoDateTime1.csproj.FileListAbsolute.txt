@@ -1,0 +1,15 @@
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\CSFundamentos1\TipoDateTime1\bin\Debug\net6.0\TipoDateTime1.exe
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\CSFundamentos1\TipoDateTime1\bin\Debug\net6.0\TipoDateTime1.deps.json
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\CSFundamentos1\TipoDateTime1\bin\Debug\net6.0\TipoDateTime1.runtimeconfig.json
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\CSFundamentos1\TipoDateTime1\bin\Debug\net6.0\TipoDateTime1.dll
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\CSFundamentos1\TipoDateTime1\bin\Debug\net6.0\TipoDateTime1.pdb
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\CSFundamentos1\TipoDateTime1\obj\Debug\net6.0\TipoDateTime1.csproj.AssemblyReference.cache
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\CSFundamentos1\TipoDateTime1\obj\Debug\net6.0\TipoDateTime1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\CSFundamentos1\TipoDateTime1\obj\Debug\net6.0\TipoDateTime1.AssemblyInfoInputs.cache
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\CSFundamentos1\TipoDateTime1\obj\Debug\net6.0\TipoDateTime1.AssemblyInfo.cs
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\CSFundamentos1\TipoDateTime1\obj\Debug\net6.0\TipoDateTime1.csproj.CoreCompileInputs.cache
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\CSFundamentos1\TipoDateTime1\obj\Debug\net6.0\TipoDateTime1.dll
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\CSFundamentos1\TipoDateTime1\obj\Debug\net6.0\refint\TipoDateTime1.dll
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\CSFundamentos1\TipoDateTime1\obj\Debug\net6.0\TipoDateTime1.pdb
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\CSFundamentos1\TipoDateTime1\obj\Debug\net6.0\TipoDateTime1.genruntimeconfig.cache
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\CSFundamentos1\TipoDateTime1\obj\Debug\net6.0\ref\TipoDateTime1.dll
