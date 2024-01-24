@@ -1,0 +1,15 @@
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\CSFundamentos1\NullableTypeCoalescencia\bin\Debug\net6.0\NullableTypeCoalescencia.exe
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\CSFundamentos1\NullableTypeCoalescencia\bin\Debug\net6.0\NullableTypeCoalescencia.deps.json
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\CSFundamentos1\NullableTypeCoalescencia\bin\Debug\net6.0\NullableTypeCoalescencia.runtimeconfig.json
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\CSFundamentos1\NullableTypeCoalescencia\bin\Debug\net6.0\NullableTypeCoalescencia.dll
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\CSFundamentos1\NullableTypeCoalescencia\bin\Debug\net6.0\NullableTypeCoalescencia.pdb
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\CSFundamentos1\NullableTypeCoalescencia\obj\Debug\net6.0\NullableTypeCoalescencia.csproj.AssemblyReference.cache
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\CSFundamentos1\NullableTypeCoalescencia\obj\Debug\net6.0\NullableTypeCoalescencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\CSFundamentos1\NullableTypeCoalescencia\obj\Debug\net6.0\NullableTypeCoalescencia.AssemblyInfoInputs.cache
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\CSFundamentos1\NullableTypeCoalescencia\obj\Debug\net6.0\NullableTypeCoalescencia.AssemblyInfo.cs
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\CSFundamentos1\NullableTypeCoalescencia\obj\Debug\net6.0\NullableTypeCoalescencia.csproj.CoreCompileInputs.cache
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\CSFundamentos1\NullableTypeCoalescencia\obj\Debug\net6.0\NullableTypeCoalescencia.dll
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\CSFundamentos1\NullableTypeCoalescencia\obj\Debug\net6.0\refint\NullableTypeCoalescencia.dll
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\CSFundamentos1\NullableTypeCoalescencia\obj\Debug\net6.0\NullableTypeCoalescencia.pdb
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\CSFundamentos1\NullableTypeCoalescencia\obj\Debug\net6.0\NullableTypeCoalescencia.genruntimeconfig.cache
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\CSFundamentos1\NullableTypeCoalescencia\obj\Debug\net6.0\ref\NullableTypeCoalescencia.dll

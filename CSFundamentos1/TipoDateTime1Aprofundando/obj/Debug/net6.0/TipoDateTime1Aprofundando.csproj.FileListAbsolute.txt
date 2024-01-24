@@ -1,0 +1,15 @@
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\CSFundamentos1\TipoDateTime1Aprofundando\bin\Debug\net6.0\TipoDateTime1Aprofundando.exe
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\CSFundamentos1\TipoDateTime1Aprofundando\bin\Debug\net6.0\TipoDateTime1Aprofundando.deps.json
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\CSFundamentos1\TipoDateTime1Aprofundando\bin\Debug\net6.0\TipoDateTime1Aprofundando.runtimeconfig.json
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\CSFundamentos1\TipoDateTime1Aprofundando\bin\Debug\net6.0\TipoDateTime1Aprofundando.dll
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\CSFundamentos1\TipoDateTime1Aprofundando\bin\Debug\net6.0\TipoDateTime1Aprofundando.pdb
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\CSFundamentos1\TipoDateTime1Aprofundando\obj\Debug\net6.0\TipoDateTime1Aprofundando.csproj.AssemblyReference.cache
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\CSFundamentos1\TipoDateTime1Aprofundando\obj\Debug\net6.0\TipoDateTime1Aprofundando.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\CSFundamentos1\TipoDateTime1Aprofundando\obj\Debug\net6.0\TipoDateTime1Aprofundando.AssemblyInfoInputs.cache
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\CSFundamentos1\TipoDateTime1Aprofundando\obj\Debug\net6.0\TipoDateTime1Aprofundando.AssemblyInfo.cs
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\CSFundamentos1\TipoDateTime1Aprofundando\obj\Debug\net6.0\TipoDateTime1Aprofundando.csproj.CoreCompileInputs.cache
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\CSFundamentos1\TipoDateTime1Aprofundando\obj\Debug\net6.0\TipoDateTime1Aprofundando.dll
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\CSFundamentos1\TipoDateTime1Aprofundando\obj\Debug\net6.0\refint\TipoDateTime1Aprofundando.dll
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\CSFundamentos1\TipoDateTime1Aprofundando\obj\Debug\net6.0\TipoDateTime1Aprofundando.pdb
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\CSFundamentos1\TipoDateTime1Aprofundando\obj\Debug\net6.0\TipoDateTime1Aprofundando.genruntimeconfig.cache
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\CSFundamentos1\TipoDateTime1Aprofundando\obj\Debug\net6.0\ref\TipoDateTime1Aprofundando.dll

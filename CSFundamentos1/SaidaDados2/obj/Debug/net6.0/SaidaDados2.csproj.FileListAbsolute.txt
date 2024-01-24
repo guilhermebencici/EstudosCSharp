@@ -1,0 +1,5 @@
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\CSFundamentos1\SaidaDados2\obj\Debug\net6.0\SaidaDados2.csproj.AssemblyReference.cache
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\CSFundamentos1\SaidaDados2\obj\Debug\net6.0\SaidaDados2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\CSFundamentos1\SaidaDados2\obj\Debug\net6.0\SaidaDados2.AssemblyInfoInputs.cache
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\CSFundamentos1\SaidaDados2\obj\Debug\net6.0\SaidaDados2.AssemblyInfo.cs
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\CSFundamentos1\SaidaDados2\obj\Debug\net6.0\SaidaDados2.csproj.CoreCompileInputs.cache

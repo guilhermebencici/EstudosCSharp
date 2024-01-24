@@ -1,0 +1,15 @@
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\CSFundamentos1\OperadorIncrementoDecremento\bin\Debug\net6.0\OperadorIncrementoDecremento.exe
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\CSFundamentos1\OperadorIncrementoDecremento\bin\Debug\net6.0\OperadorIncrementoDecremento.deps.json
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\CSFundamentos1\OperadorIncrementoDecremento\bin\Debug\net6.0\OperadorIncrementoDecremento.runtimeconfig.json
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\CSFundamentos1\OperadorIncrementoDecremento\bin\Debug\net6.0\OperadorIncrementoDecremento.dll
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\CSFundamentos1\OperadorIncrementoDecremento\bin\Debug\net6.0\OperadorIncrementoDecremento.pdb
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\CSFundamentos1\OperadorIncrementoDecremento\obj\Debug\net6.0\OperadorIncrementoDecremento.csproj.AssemblyReference.cache
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\CSFundamentos1\OperadorIncrementoDecremento\obj\Debug\net6.0\OperadorIncrementoDecremento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\CSFundamentos1\OperadorIncrementoDecremento\obj\Debug\net6.0\OperadorIncrementoDecremento.AssemblyInfoInputs.cache
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\CSFundamentos1\OperadorIncrementoDecremento\obj\Debug\net6.0\OperadorIncrementoDecremento.AssemblyInfo.cs
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\CSFundamentos1\OperadorIncrementoDecremento\obj\Debug\net6.0\OperadorIncrementoDecremento.csproj.CoreCompileInputs.cache
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\CSFundamentos1\OperadorIncrementoDecremento\obj\Debug\net6.0\OperadorIncrementoDecremento.dll
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\CSFundamentos1\OperadorIncrementoDecremento\obj\Debug\net6.0\refint\OperadorIncrementoDecremento.dll
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\CSFundamentos1\OperadorIncrementoDecremento\obj\Debug\net6.0\OperadorIncrementoDecremento.pdb
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\CSFundamentos1\OperadorIncrementoDecremento\obj\Debug\net6.0\OperadorIncrementoDecremento.genruntimeconfig.cache
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\CSFundamentos1\OperadorIncrementoDecremento\obj\Debug\net6.0\ref\OperadorIncrementoDecremento.dll

@@ -1,0 +1,15 @@
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\CSFundamentos1\LógicaTernário\obj\Debug\net6.0\LógicaTernário.csproj.AssemblyReference.cache
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\CSFundamentos1\LógicaTernário\obj\Debug\net6.0\LógicaTernário.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\CSFundamentos1\LógicaTernário\obj\Debug\net6.0\LógicaTernário.AssemblyInfoInputs.cache
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\CSFundamentos1\LógicaTernário\obj\Debug\net6.0\LógicaTernário.AssemblyInfo.cs
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\CSFundamentos1\LógicaTernário\obj\Debug\net6.0\LógicaTernário.csproj.CoreCompileInputs.cache
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\CSFundamentos1\LógicaTernário\bin\Debug\net6.0\LógicaTernário.exe
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\CSFundamentos1\LógicaTernário\bin\Debug\net6.0\LógicaTernário.deps.json
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\CSFundamentos1\LógicaTernário\bin\Debug\net6.0\LógicaTernário.runtimeconfig.json
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\CSFundamentos1\LógicaTernário\bin\Debug\net6.0\LógicaTernário.dll
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\CSFundamentos1\LógicaTernário\bin\Debug\net6.0\LógicaTernário.pdb
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\CSFundamentos1\LógicaTernário\obj\Debug\net6.0\LógicaTernário.dll
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\CSFundamentos1\LógicaTernário\obj\Debug\net6.0\refint\LógicaTernário.dll
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\CSFundamentos1\LógicaTernário\obj\Debug\net6.0\LógicaTernário.pdb
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\CSFundamentos1\LógicaTernário\obj\Debug\net6.0\LógicaTernário.genruntimeconfig.cache
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\CSFundamentos1\LógicaTernário\obj\Debug\net6.0\ref\LógicaTernário.dll

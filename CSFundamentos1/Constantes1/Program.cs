@@ -1,0 +1,19 @@
+﻿Console.WriteLine("## CONSTANTES ##\n");
+
+// CONVENÇÃO CONSTANTE FICA EM MAIUSCULO
+const int ANO = 12;
+
+// POSSO DECLARAR MAIS DE UMA CONSTANTE NA MESMA LINHA, DESDE QUE SEJA DO MESMO TIPO!!
+const int MES = 30, SEMANA = 7, QUINZENA = 15;
+
+
+const int MESES_ANO = 12;
+const int DIAS_ANO = 365;
+
+//POSSO OBTER UM FLOAT DE CONSTANTES DO TIPO INT, BASTA UTILIZAR O CAST
+const float DIAS_POR_MES = (float)DIAS_ANO / (float)MESES_ANO;
+
+Console.WriteLine(DIAS_POR_MES);
+
+
+Console.ReadKey();

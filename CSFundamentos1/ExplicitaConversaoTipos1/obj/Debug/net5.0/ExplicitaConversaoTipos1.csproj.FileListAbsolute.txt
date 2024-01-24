@@ -1,0 +1,16 @@
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\CSFundamentos1\ExplicitaConversaoTipos1\bin\Debug\net5.0\ExplicitaConversaoTipos1.exe
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\CSFundamentos1\ExplicitaConversaoTipos1\bin\Debug\net5.0\ExplicitaConversaoTipos1.deps.json
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\CSFundamentos1\ExplicitaConversaoTipos1\bin\Debug\net5.0\ExplicitaConversaoTipos1.runtimeconfig.json
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\CSFundamentos1\ExplicitaConversaoTipos1\bin\Debug\net5.0\ExplicitaConversaoTipos1.runtimeconfig.dev.json
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\CSFundamentos1\ExplicitaConversaoTipos1\bin\Debug\net5.0\ExplicitaConversaoTipos1.dll
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\CSFundamentos1\ExplicitaConversaoTipos1\bin\Debug\net5.0\ExplicitaConversaoTipos1.pdb
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\CSFundamentos1\ExplicitaConversaoTipos1\obj\Debug\net5.0\ExplicitaConversaoTipos1.csproj.AssemblyReference.cache
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\CSFundamentos1\ExplicitaConversaoTipos1\obj\Debug\net5.0\ExplicitaConversaoTipos1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\CSFundamentos1\ExplicitaConversaoTipos1\obj\Debug\net5.0\ExplicitaConversaoTipos1.AssemblyInfoInputs.cache
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\CSFundamentos1\ExplicitaConversaoTipos1\obj\Debug\net5.0\ExplicitaConversaoTipos1.AssemblyInfo.cs
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\CSFundamentos1\ExplicitaConversaoTipos1\obj\Debug\net5.0\ExplicitaConversaoTipos1.csproj.CoreCompileInputs.cache
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\CSFundamentos1\ExplicitaConversaoTipos1\obj\Debug\net5.0\ExplicitaConversaoTipos1.dll
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\CSFundamentos1\ExplicitaConversaoTipos1\obj\Debug\net5.0\refint\ExplicitaConversaoTipos1.dll
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\CSFundamentos1\ExplicitaConversaoTipos1\obj\Debug\net5.0\ExplicitaConversaoTipos1.pdb
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\CSFundamentos1\ExplicitaConversaoTipos1\obj\Debug\net5.0\ExplicitaConversaoTipos1.genruntimeconfig.cache
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\CSFundamentos1\ExplicitaConversaoTipos1\obj\Debug\net5.0\ref\ExplicitaConversaoTipos1.dll

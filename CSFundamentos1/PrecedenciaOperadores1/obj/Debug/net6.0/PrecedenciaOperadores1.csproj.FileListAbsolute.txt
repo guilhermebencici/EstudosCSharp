@@ -1,0 +1,15 @@
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\CSFundamentos1\PrecedenciaOperadores1\bin\Debug\net6.0\PrecedenciaOperadores1.exe
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\CSFundamentos1\PrecedenciaOperadores1\bin\Debug\net6.0\PrecedenciaOperadores1.deps.json
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\CSFundamentos1\PrecedenciaOperadores1\bin\Debug\net6.0\PrecedenciaOperadores1.runtimeconfig.json
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\CSFundamentos1\PrecedenciaOperadores1\bin\Debug\net6.0\PrecedenciaOperadores1.dll
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\CSFundamentos1\PrecedenciaOperadores1\bin\Debug\net6.0\PrecedenciaOperadores1.pdb
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\CSFundamentos1\PrecedenciaOperadores1\obj\Debug\net6.0\PrecedenciaOperadores1.csproj.AssemblyReference.cache
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\CSFundamentos1\PrecedenciaOperadores1\obj\Debug\net6.0\PrecedenciaOperadores1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\CSFundamentos1\PrecedenciaOperadores1\obj\Debug\net6.0\PrecedenciaOperadores1.AssemblyInfoInputs.cache
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\CSFundamentos1\PrecedenciaOperadores1\obj\Debug\net6.0\PrecedenciaOperadores1.AssemblyInfo.cs
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\CSFundamentos1\PrecedenciaOperadores1\obj\Debug\net6.0\PrecedenciaOperadores1.csproj.CoreCompileInputs.cache
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\CSFundamentos1\PrecedenciaOperadores1\obj\Debug\net6.0\PrecedenciaOperadores1.dll
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\CSFundamentos1\PrecedenciaOperadores1\obj\Debug\net6.0\refint\PrecedenciaOperadores1.dll
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\CSFundamentos1\PrecedenciaOperadores1\obj\Debug\net6.0\PrecedenciaOperadores1.pdb
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\CSFundamentos1\PrecedenciaOperadores1\obj\Debug\net6.0\PrecedenciaOperadores1.genruntimeconfig.cache
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\CSFundamentos1\PrecedenciaOperadores1\obj\Debug\net6.0\ref\PrecedenciaOperadores1.dll

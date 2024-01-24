@@ -1,0 +1,15 @@
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\CSFundamentos1\ConversaoTipos1\bin\Debug\net6.0\ConversaoTipos1.exe
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\CSFundamentos1\ConversaoTipos1\bin\Debug\net6.0\ConversaoTipos1.deps.json
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\CSFundamentos1\ConversaoTipos1\bin\Debug\net6.0\ConversaoTipos1.runtimeconfig.json
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\CSFundamentos1\ConversaoTipos1\bin\Debug\net6.0\ConversaoTipos1.dll
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\CSFundamentos1\ConversaoTipos1\bin\Debug\net6.0\ConversaoTipos1.pdb
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\CSFundamentos1\ConversaoTipos1\obj\Debug\net6.0\ConversaoTipos1.csproj.AssemblyReference.cache
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\CSFundamentos1\ConversaoTipos1\obj\Debug\net6.0\ConversaoTipos1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\CSFundamentos1\ConversaoTipos1\obj\Debug\net6.0\ConversaoTipos1.AssemblyInfoInputs.cache
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\CSFundamentos1\ConversaoTipos1\obj\Debug\net6.0\ConversaoTipos1.AssemblyInfo.cs
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\CSFundamentos1\ConversaoTipos1\obj\Debug\net6.0\ConversaoTipos1.csproj.CoreCompileInputs.cache
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\CSFundamentos1\ConversaoTipos1\obj\Debug\net6.0\ConversaoTipos1.dll
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\CSFundamentos1\ConversaoTipos1\obj\Debug\net6.0\refint\ConversaoTipos1.dll
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\CSFundamentos1\ConversaoTipos1\obj\Debug\net6.0\ConversaoTipos1.pdb
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\CSFundamentos1\ConversaoTipos1\obj\Debug\net6.0\ConversaoTipos1.genruntimeconfig.cache
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\CSFundamentos1\ConversaoTipos1\obj\Debug\net6.0\ref\ConversaoTipos1.dll
