@@ -1,0 +1,15 @@
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\EstruturasControle\EstruturasControle\bin\Debug\net6.0\1Estrutura_If.exe
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\EstruturasControle\EstruturasControle\bin\Debug\net6.0\1Estrutura_If.deps.json
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\EstruturasControle\EstruturasControle\bin\Debug\net6.0\1Estrutura_If.runtimeconfig.json
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\EstruturasControle\EstruturasControle\bin\Debug\net6.0\1Estrutura_If.dll
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\EstruturasControle\EstruturasControle\bin\Debug\net6.0\1Estrutura_If.pdb
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\EstruturasControle\EstruturasControle\obj\Debug\net6.0\1Estrutura_If.csproj.AssemblyReference.cache
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\EstruturasControle\EstruturasControle\obj\Debug\net6.0\1Estrutura_If.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\EstruturasControle\EstruturasControle\obj\Debug\net6.0\1Estrutura_If.AssemblyInfoInputs.cache
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\EstruturasControle\EstruturasControle\obj\Debug\net6.0\1Estrutura_If.AssemblyInfo.cs
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\EstruturasControle\EstruturasControle\obj\Debug\net6.0\1Estrutura_If.csproj.CoreCompileInputs.cache
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\EstruturasControle\EstruturasControle\obj\Debug\net6.0\1Estrutura_If.dll
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\EstruturasControle\EstruturasControle\obj\Debug\net6.0\refint\1Estrutura_If.dll
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\EstruturasControle\EstruturasControle\obj\Debug\net6.0\1Estrutura_If.pdb
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\EstruturasControle\EstruturasControle\obj\Debug\net6.0\1Estrutura_If.genruntimeconfig.cache
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\EstruturasControle\EstruturasControle\obj\Debug\net6.0\ref\1Estrutura_If.dll
