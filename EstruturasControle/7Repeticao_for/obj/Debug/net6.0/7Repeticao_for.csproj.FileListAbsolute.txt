@@ -1,0 +1,15 @@
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\EstruturasControle\7Repeticao_for\bin\Debug\net6.0\7Repeticao_for.exe
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\EstruturasControle\7Repeticao_for\bin\Debug\net6.0\7Repeticao_for.deps.json
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\EstruturasControle\7Repeticao_for\bin\Debug\net6.0\7Repeticao_for.runtimeconfig.json
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\EstruturasControle\7Repeticao_for\bin\Debug\net6.0\7Repeticao_for.dll
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\EstruturasControle\7Repeticao_for\bin\Debug\net6.0\7Repeticao_for.pdb
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\EstruturasControle\7Repeticao_for\obj\Debug\net6.0\7Repeticao_for.csproj.AssemblyReference.cache
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\EstruturasControle\7Repeticao_for\obj\Debug\net6.0\7Repeticao_for.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\EstruturasControle\7Repeticao_for\obj\Debug\net6.0\7Repeticao_for.AssemblyInfoInputs.cache
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\EstruturasControle\7Repeticao_for\obj\Debug\net6.0\7Repeticao_for.AssemblyInfo.cs
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\EstruturasControle\7Repeticao_for\obj\Debug\net6.0\7Repeticao_for.csproj.CoreCompileInputs.cache
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\EstruturasControle\7Repeticao_for\obj\Debug\net6.0\7Repeticao_for.dll
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\EstruturasControle\7Repeticao_for\obj\Debug\net6.0\refint\7Repeticao_for.dll
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\EstruturasControle\7Repeticao_for\obj\Debug\net6.0\7Repeticao_for.pdb
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\EstruturasControle\7Repeticao_for\obj\Debug\net6.0\7Repeticao_for.genruntimeconfig.cache
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\EstruturasControle\7Repeticao_for\obj\Debug\net6.0\ref\7Repeticao_for.dll

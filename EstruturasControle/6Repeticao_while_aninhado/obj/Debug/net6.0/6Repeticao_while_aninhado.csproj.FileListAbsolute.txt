@@ -1,0 +1,15 @@
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\EstruturasControle\6Repeticao_while_aninhado\bin\Debug\net6.0\6Repeticao_while_aninhado.exe
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\EstruturasControle\6Repeticao_while_aninhado\bin\Debug\net6.0\6Repeticao_while_aninhado.deps.json
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\EstruturasControle\6Repeticao_while_aninhado\bin\Debug\net6.0\6Repeticao_while_aninhado.runtimeconfig.json
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\EstruturasControle\6Repeticao_while_aninhado\bin\Debug\net6.0\6Repeticao_while_aninhado.dll
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\EstruturasControle\6Repeticao_while_aninhado\bin\Debug\net6.0\6Repeticao_while_aninhado.pdb
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\EstruturasControle\6Repeticao_while_aninhado\obj\Debug\net6.0\6Repeticao_while_aninhado.csproj.AssemblyReference.cache
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\EstruturasControle\6Repeticao_while_aninhado\obj\Debug\net6.0\6Repeticao_while_aninhado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\EstruturasControle\6Repeticao_while_aninhado\obj\Debug\net6.0\6Repeticao_while_aninhado.AssemblyInfoInputs.cache
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\EstruturasControle\6Repeticao_while_aninhado\obj\Debug\net6.0\6Repeticao_while_aninhado.AssemblyInfo.cs
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\EstruturasControle\6Repeticao_while_aninhado\obj\Debug\net6.0\6Repeticao_while_aninhado.csproj.CoreCompileInputs.cache
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\EstruturasControle\6Repeticao_while_aninhado\obj\Debug\net6.0\6Repeticao_while_aninhado.dll
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\EstruturasControle\6Repeticao_while_aninhado\obj\Debug\net6.0\refint\6Repeticao_while_aninhado.dll
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\EstruturasControle\6Repeticao_while_aninhado\obj\Debug\net6.0\6Repeticao_while_aninhado.pdb
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\EstruturasControle\6Repeticao_while_aninhado\obj\Debug\net6.0\6Repeticao_while_aninhado.genruntimeconfig.cache
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\EstruturasControle\6Repeticao_while_aninhado\obj\Debug\net6.0\ref\6Repeticao_while_aninhado.dll

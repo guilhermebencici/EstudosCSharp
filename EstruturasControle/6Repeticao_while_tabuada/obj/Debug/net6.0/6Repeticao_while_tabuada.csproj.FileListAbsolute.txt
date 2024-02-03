@@ -1,0 +1,15 @@
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\EstruturasControle\6Repeticao_while_tabuada\bin\Debug\net6.0\6Repeticao_while_tabuada.exe
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\EstruturasControle\6Repeticao_while_tabuada\bin\Debug\net6.0\6Repeticao_while_tabuada.deps.json
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\EstruturasControle\6Repeticao_while_tabuada\bin\Debug\net6.0\6Repeticao_while_tabuada.runtimeconfig.json
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\EstruturasControle\6Repeticao_while_tabuada\bin\Debug\net6.0\6Repeticao_while_tabuada.dll
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\EstruturasControle\6Repeticao_while_tabuada\bin\Debug\net6.0\6Repeticao_while_tabuada.pdb
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\EstruturasControle\6Repeticao_while_tabuada\obj\Debug\net6.0\6Repeticao_while_tabuada.csproj.AssemblyReference.cache
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\EstruturasControle\6Repeticao_while_tabuada\obj\Debug\net6.0\6Repeticao_while_tabuada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\EstruturasControle\6Repeticao_while_tabuada\obj\Debug\net6.0\6Repeticao_while_tabuada.AssemblyInfoInputs.cache
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\EstruturasControle\6Repeticao_while_tabuada\obj\Debug\net6.0\6Repeticao_while_tabuada.AssemblyInfo.cs
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\EstruturasControle\6Repeticao_while_tabuada\obj\Debug\net6.0\6Repeticao_while_tabuada.csproj.CoreCompileInputs.cache
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\EstruturasControle\6Repeticao_while_tabuada\obj\Debug\net6.0\6Repeticao_while_tabuada.dll
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\EstruturasControle\6Repeticao_while_tabuada\obj\Debug\net6.0\refint\6Repeticao_while_tabuada.dll
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\EstruturasControle\6Repeticao_while_tabuada\obj\Debug\net6.0\6Repeticao_while_tabuada.pdb
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\EstruturasControle\6Repeticao_while_tabuada\obj\Debug\net6.0\6Repeticao_while_tabuada.genruntimeconfig.cache
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\EstruturasControle\6Repeticao_while_tabuada\obj\Debug\net6.0\ref\6Repeticao_while_tabuada.dll

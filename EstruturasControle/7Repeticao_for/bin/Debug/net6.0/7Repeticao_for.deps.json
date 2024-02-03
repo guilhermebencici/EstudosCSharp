@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "7Repeticao_for/1.0.0": {
+        "runtime": {
+          "7Repeticao_for.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "7Repeticao_for/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
