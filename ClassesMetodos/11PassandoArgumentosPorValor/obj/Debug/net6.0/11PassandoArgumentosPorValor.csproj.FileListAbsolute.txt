@@ -1,0 +1,15 @@
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\ClassesMetodos\11PassandoArgumentosPorValor\bin\Debug\net6.0\11PassandoArgumentosPorValor.exe
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\ClassesMetodos\11PassandoArgumentosPorValor\bin\Debug\net6.0\11PassandoArgumentosPorValor.deps.json
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\ClassesMetodos\11PassandoArgumentosPorValor\bin\Debug\net6.0\11PassandoArgumentosPorValor.runtimeconfig.json
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\ClassesMetodos\11PassandoArgumentosPorValor\bin\Debug\net6.0\11PassandoArgumentosPorValor.dll
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\ClassesMetodos\11PassandoArgumentosPorValor\bin\Debug\net6.0\11PassandoArgumentosPorValor.pdb
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\ClassesMetodos\11PassandoArgumentosPorValor\obj\Debug\net6.0\11PassandoArgumentosPorValor.csproj.AssemblyReference.cache
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\ClassesMetodos\11PassandoArgumentosPorValor\obj\Debug\net6.0\11PassandoArgumentosPorValor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\ClassesMetodos\11PassandoArgumentosPorValor\obj\Debug\net6.0\11PassandoArgumentosPorValor.AssemblyInfoInputs.cache
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\ClassesMetodos\11PassandoArgumentosPorValor\obj\Debug\net6.0\11PassandoArgumentosPorValor.AssemblyInfo.cs
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\ClassesMetodos\11PassandoArgumentosPorValor\obj\Debug\net6.0\11PassandoArgumentosPorValor.csproj.CoreCompileInputs.cache
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\ClassesMetodos\11PassandoArgumentosPorValor\obj\Debug\net6.0\11PassandoArgumentosPorValor.dll
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\ClassesMetodos\11PassandoArgumentosPorValor\obj\Debug\net6.0\refint\11PassandoArgumentosPorValor.dll
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\ClassesMetodos\11PassandoArgumentosPorValor\obj\Debug\net6.0\11PassandoArgumentosPorValor.pdb
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\ClassesMetodos\11PassandoArgumentosPorValor\obj\Debug\net6.0\11PassandoArgumentosPorValor.genruntimeconfig.cache
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\ClassesMetodos\11PassandoArgumentosPorValor\obj\Debug\net6.0\ref\11PassandoArgumentosPorValor.dll
