@@ -1,0 +1,15 @@
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\ClassesMetodos\4MetodosParametros\bin\Debug\net6.0\4MetodosParametros.exe
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\ClassesMetodos\4MetodosParametros\bin\Debug\net6.0\4MetodosParametros.deps.json
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\ClassesMetodos\4MetodosParametros\bin\Debug\net6.0\4MetodosParametros.runtimeconfig.json
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\ClassesMetodos\4MetodosParametros\bin\Debug\net6.0\4MetodosParametros.dll
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\ClassesMetodos\4MetodosParametros\bin\Debug\net6.0\4MetodosParametros.pdb
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\ClassesMetodos\4MetodosParametros\obj\Debug\net6.0\4MetodosParametros.csproj.AssemblyReference.cache
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\ClassesMetodos\4MetodosParametros\obj\Debug\net6.0\4MetodosParametros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\ClassesMetodos\4MetodosParametros\obj\Debug\net6.0\4MetodosParametros.AssemblyInfoInputs.cache
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\ClassesMetodos\4MetodosParametros\obj\Debug\net6.0\4MetodosParametros.AssemblyInfo.cs
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\ClassesMetodos\4MetodosParametros\obj\Debug\net6.0\4MetodosParametros.csproj.CoreCompileInputs.cache
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\ClassesMetodos\4MetodosParametros\obj\Debug\net6.0\4MetodosParametros.dll
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\ClassesMetodos\4MetodosParametros\obj\Debug\net6.0\refint\4MetodosParametros.dll
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\ClassesMetodos\4MetodosParametros\obj\Debug\net6.0\4MetodosParametros.pdb
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\ClassesMetodos\4MetodosParametros\obj\Debug\net6.0\4MetodosParametros.genruntimeconfig.cache
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\ClassesMetodos\4MetodosParametros\obj\Debug\net6.0\ref\4MetodosParametros.dll

@@ -1,0 +1,15 @@
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\ClassesMetodos\ClassesMetodos\bin\Debug\net6.0\ClassesMetodos.exe
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\ClassesMetodos\ClassesMetodos\bin\Debug\net6.0\ClassesMetodos.deps.json
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\ClassesMetodos\ClassesMetodos\bin\Debug\net6.0\ClassesMetodos.runtimeconfig.json
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\ClassesMetodos\ClassesMetodos\bin\Debug\net6.0\ClassesMetodos.dll
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\ClassesMetodos\ClassesMetodos\bin\Debug\net6.0\ClassesMetodos.pdb
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\ClassesMetodos\ClassesMetodos\obj\Debug\net6.0\ClassesMetodos.csproj.AssemblyReference.cache
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\ClassesMetodos\ClassesMetodos\obj\Debug\net6.0\ClassesMetodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\ClassesMetodos\ClassesMetodos\obj\Debug\net6.0\ClassesMetodos.AssemblyInfoInputs.cache
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\ClassesMetodos\ClassesMetodos\obj\Debug\net6.0\ClassesMetodos.AssemblyInfo.cs
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\ClassesMetodos\ClassesMetodos\obj\Debug\net6.0\ClassesMetodos.csproj.CoreCompileInputs.cache
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\ClassesMetodos\ClassesMetodos\obj\Debug\net6.0\ClassesMetodos.dll
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\ClassesMetodos\ClassesMetodos\obj\Debug\net6.0\refint\ClassesMetodos.dll
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\ClassesMetodos\ClassesMetodos\obj\Debug\net6.0\ClassesMetodos.pdb
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\ClassesMetodos\ClassesMetodos\obj\Debug\net6.0\ClassesMetodos.genruntimeconfig.cache
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\ClassesMetodos\ClassesMetodos\obj\Debug\net6.0\ref\ClassesMetodos.dll
