@@ -1,0 +1,15 @@
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\ClassesMetodos\15CamposEstaticos\bin\Debug\net6.0\15CamposEstaticos.exe
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\ClassesMetodos\15CamposEstaticos\bin\Debug\net6.0\15CamposEstaticos.deps.json
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\ClassesMetodos\15CamposEstaticos\bin\Debug\net6.0\15CamposEstaticos.runtimeconfig.json
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\ClassesMetodos\15CamposEstaticos\bin\Debug\net6.0\15CamposEstaticos.dll
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\ClassesMetodos\15CamposEstaticos\bin\Debug\net6.0\15CamposEstaticos.pdb
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\ClassesMetodos\15CamposEstaticos\obj\Debug\net6.0\15CamposEstaticos.csproj.AssemblyReference.cache
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\ClassesMetodos\15CamposEstaticos\obj\Debug\net6.0\15CamposEstaticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\ClassesMetodos\15CamposEstaticos\obj\Debug\net6.0\15CamposEstaticos.AssemblyInfoInputs.cache
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\ClassesMetodos\15CamposEstaticos\obj\Debug\net6.0\15CamposEstaticos.AssemblyInfo.cs
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\ClassesMetodos\15CamposEstaticos\obj\Debug\net6.0\15CamposEstaticos.csproj.CoreCompileInputs.cache
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\ClassesMetodos\15CamposEstaticos\obj\Debug\net6.0\15CamposEstaticos.dll
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\ClassesMetodos\15CamposEstaticos\obj\Debug\net6.0\refint\15CamposEstaticos.dll
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\ClassesMetodos\15CamposEstaticos\obj\Debug\net6.0\15CamposEstaticos.pdb
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\ClassesMetodos\15CamposEstaticos\obj\Debug\net6.0\15CamposEstaticos.genruntimeconfig.cache
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\ClassesMetodos\15CamposEstaticos\obj\Debug\net6.0\ref\15CamposEstaticos.dll
