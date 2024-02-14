@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9ArgumentosNomeados", "9Arg
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10ParametrosOpcionais", "10ParametrosOpcionais\10ParametrosOpcionais.csproj", "{6AEC048B-B6CC-4387-8C40-492F4FB036B7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14MetodosEstaticos", "14MetodosEstaticos\14MetodosEstaticos.csproj", "{C072748F-B79D-49FC-97AA-F2DC3B9BC8D0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{6AEC048B-B6CC-4387-8C40-492F4FB036B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6AEC048B-B6CC-4387-8C40-492F4FB036B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6AEC048B-B6CC-4387-8C40-492F4FB036B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C072748F-B79D-49FC-97AA-F2DC3B9BC8D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C072748F-B79D-49FC-97AA-F2DC3B9BC8D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C072748F-B79D-49FC-97AA-F2DC3B9BC8D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C072748F-B79D-49FC-97AA-F2DC3B9BC8D0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
