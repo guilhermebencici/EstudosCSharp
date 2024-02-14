@@ -1,0 +1,15 @@
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\ClassesMetodos\9ArgumentosNomeados\bin\Debug\net6.0\9ArgumentosNomeados.exe
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\ClassesMetodos\9ArgumentosNomeados\bin\Debug\net6.0\9ArgumentosNomeados.deps.json
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\ClassesMetodos\9ArgumentosNomeados\bin\Debug\net6.0\9ArgumentosNomeados.runtimeconfig.json
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\ClassesMetodos\9ArgumentosNomeados\bin\Debug\net6.0\9ArgumentosNomeados.dll
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\ClassesMetodos\9ArgumentosNomeados\bin\Debug\net6.0\9ArgumentosNomeados.pdb
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\ClassesMetodos\9ArgumentosNomeados\obj\Debug\net6.0\9ArgumentosNomeados.csproj.AssemblyReference.cache
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\ClassesMetodos\9ArgumentosNomeados\obj\Debug\net6.0\9ArgumentosNomeados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\ClassesMetodos\9ArgumentosNomeados\obj\Debug\net6.0\9ArgumentosNomeados.AssemblyInfoInputs.cache
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\ClassesMetodos\9ArgumentosNomeados\obj\Debug\net6.0\9ArgumentosNomeados.AssemblyInfo.cs
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\ClassesMetodos\9ArgumentosNomeados\obj\Debug\net6.0\9ArgumentosNomeados.csproj.CoreCompileInputs.cache
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\ClassesMetodos\9ArgumentosNomeados\obj\Debug\net6.0\9ArgumentosNomeados.dll
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\ClassesMetodos\9ArgumentosNomeados\obj\Debug\net6.0\refint\9ArgumentosNomeados.dll
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\ClassesMetodos\9ArgumentosNomeados\obj\Debug\net6.0\9ArgumentosNomeados.pdb
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\ClassesMetodos\9ArgumentosNomeados\obj\Debug\net6.0\9ArgumentosNomeados.genruntimeconfig.cache
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\ClassesMetodos\9ArgumentosNomeados\obj\Debug\net6.0\ref\9ArgumentosNomeados.dll
