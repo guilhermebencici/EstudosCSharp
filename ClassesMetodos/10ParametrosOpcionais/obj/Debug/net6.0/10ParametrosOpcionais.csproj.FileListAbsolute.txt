@@ -1,0 +1,15 @@
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\ClassesMetodos\10ParametrosOpcionais\bin\Debug\net6.0\10ParametrosOpcionais.exe
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\ClassesMetodos\10ParametrosOpcionais\bin\Debug\net6.0\10ParametrosOpcionais.deps.json
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\ClassesMetodos\10ParametrosOpcionais\bin\Debug\net6.0\10ParametrosOpcionais.runtimeconfig.json
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\ClassesMetodos\10ParametrosOpcionais\bin\Debug\net6.0\10ParametrosOpcionais.dll
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\ClassesMetodos\10ParametrosOpcionais\bin\Debug\net6.0\10ParametrosOpcionais.pdb
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\ClassesMetodos\10ParametrosOpcionais\obj\Debug\net6.0\10ParametrosOpcionais.csproj.AssemblyReference.cache
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\ClassesMetodos\10ParametrosOpcionais\obj\Debug\net6.0\10ParametrosOpcionais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\ClassesMetodos\10ParametrosOpcionais\obj\Debug\net6.0\10ParametrosOpcionais.AssemblyInfoInputs.cache
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\ClassesMetodos\10ParametrosOpcionais\obj\Debug\net6.0\10ParametrosOpcionais.AssemblyInfo.cs
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\ClassesMetodos\10ParametrosOpcionais\obj\Debug\net6.0\10ParametrosOpcionais.csproj.CoreCompileInputs.cache
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\ClassesMetodos\10ParametrosOpcionais\obj\Debug\net6.0\10ParametrosOpcionais.dll
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\ClassesMetodos\10ParametrosOpcionais\obj\Debug\net6.0\refint\10ParametrosOpcionais.dll
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\ClassesMetodos\10ParametrosOpcionais\obj\Debug\net6.0\10ParametrosOpcionais.pdb
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\ClassesMetodos\10ParametrosOpcionais\obj\Debug\net6.0\10ParametrosOpcionais.genruntimeconfig.cache
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\ClassesMetodos\10ParametrosOpcionais\obj\Debug\net6.0\ref\10ParametrosOpcionais.dll
