@@ -1,0 +1,15 @@
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\ClassesMetodos\15ConstrutorEstatico\bin\Debug\net6.0\15ConstrutorEstatico.exe
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\ClassesMetodos\15ConstrutorEstatico\bin\Debug\net6.0\15ConstrutorEstatico.deps.json
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\ClassesMetodos\15ConstrutorEstatico\bin\Debug\net6.0\15ConstrutorEstatico.runtimeconfig.json
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\ClassesMetodos\15ConstrutorEstatico\bin\Debug\net6.0\15ConstrutorEstatico.dll
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\ClassesMetodos\15ConstrutorEstatico\bin\Debug\net6.0\15ConstrutorEstatico.pdb
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\ClassesMetodos\15ConstrutorEstatico\obj\Debug\net6.0\15ConstrutorEstatico.csproj.AssemblyReference.cache
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\ClassesMetodos\15ConstrutorEstatico\obj\Debug\net6.0\15ConstrutorEstatico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\ClassesMetodos\15ConstrutorEstatico\obj\Debug\net6.0\15ConstrutorEstatico.AssemblyInfoInputs.cache
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\ClassesMetodos\15ConstrutorEstatico\obj\Debug\net6.0\15ConstrutorEstatico.AssemblyInfo.cs
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\ClassesMetodos\15ConstrutorEstatico\obj\Debug\net6.0\15ConstrutorEstatico.csproj.CoreCompileInputs.cache
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\ClassesMetodos\15ConstrutorEstatico\obj\Debug\net6.0\15ConstrutorEstatico.dll
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\ClassesMetodos\15ConstrutorEstatico\obj\Debug\net6.0\refint\15ConstrutorEstatico.dll
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\ClassesMetodos\15ConstrutorEstatico\obj\Debug\net6.0\15ConstrutorEstatico.pdb
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\ClassesMetodos\15ConstrutorEstatico\obj\Debug\net6.0\15ConstrutorEstatico.genruntimeconfig.cache
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\ClassesMetodos\15ConstrutorEstatico\obj\Debug\net6.0\ref\15ConstrutorEstatico.dll
