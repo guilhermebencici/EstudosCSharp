@@ -1,0 +1,15 @@
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\Colecoes\3ArraysBidimensionais\bin\Debug\net6.0\3ArraysBidimensionais.exe
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\Colecoes\3ArraysBidimensionais\bin\Debug\net6.0\3ArraysBidimensionais.deps.json
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\Colecoes\3ArraysBidimensionais\bin\Debug\net6.0\3ArraysBidimensionais.runtimeconfig.json
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\Colecoes\3ArraysBidimensionais\bin\Debug\net6.0\3ArraysBidimensionais.dll
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\Colecoes\3ArraysBidimensionais\bin\Debug\net6.0\3ArraysBidimensionais.pdb
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\Colecoes\3ArraysBidimensionais\obj\Debug\net6.0\3ArraysBidimensionais.csproj.AssemblyReference.cache
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\Colecoes\3ArraysBidimensionais\obj\Debug\net6.0\3ArraysBidimensionais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\Colecoes\3ArraysBidimensionais\obj\Debug\net6.0\3ArraysBidimensionais.AssemblyInfoInputs.cache
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\Colecoes\3ArraysBidimensionais\obj\Debug\net6.0\3ArraysBidimensionais.AssemblyInfo.cs
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\Colecoes\3ArraysBidimensionais\obj\Debug\net6.0\3ArraysBidimensionais.csproj.CoreCompileInputs.cache
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\Colecoes\3ArraysBidimensionais\obj\Debug\net6.0\3ArraysBidimensionais.dll
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\Colecoes\3ArraysBidimensionais\obj\Debug\net6.0\refint\3ArraysBidimensionais.dll
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\Colecoes\3ArraysBidimensionais\obj\Debug\net6.0\3ArraysBidimensionais.pdb
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\Colecoes\3ArraysBidimensionais\obj\Debug\net6.0\3ArraysBidimensionais.genruntimeconfig.cache
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\Colecoes\3ArraysBidimensionais\obj\Debug\net6.0\ref\3ArraysBidimensionais.dll
