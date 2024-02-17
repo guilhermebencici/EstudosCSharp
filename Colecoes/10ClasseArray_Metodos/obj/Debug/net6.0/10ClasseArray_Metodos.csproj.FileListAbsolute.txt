@@ -1,0 +1,15 @@
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\Colecoes\10ClasseArray_Metodos\bin\Debug\net6.0\10ClasseArray_Metodos.exe
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\Colecoes\10ClasseArray_Metodos\bin\Debug\net6.0\10ClasseArray_Metodos.deps.json
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\Colecoes\10ClasseArray_Metodos\bin\Debug\net6.0\10ClasseArray_Metodos.runtimeconfig.json
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\Colecoes\10ClasseArray_Metodos\bin\Debug\net6.0\10ClasseArray_Metodos.dll
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\Colecoes\10ClasseArray_Metodos\bin\Debug\net6.0\10ClasseArray_Metodos.pdb
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\Colecoes\10ClasseArray_Metodos\obj\Debug\net6.0\10ClasseArray_Metodos.csproj.AssemblyReference.cache
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\Colecoes\10ClasseArray_Metodos\obj\Debug\net6.0\10ClasseArray_Metodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\Colecoes\10ClasseArray_Metodos\obj\Debug\net6.0\10ClasseArray_Metodos.AssemblyInfoInputs.cache
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\Colecoes\10ClasseArray_Metodos\obj\Debug\net6.0\10ClasseArray_Metodos.AssemblyInfo.cs
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\Colecoes\10ClasseArray_Metodos\obj\Debug\net6.0\10ClasseArray_Metodos.csproj.CoreCompileInputs.cache
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\Colecoes\10ClasseArray_Metodos\obj\Debug\net6.0\10ClasseArray_Metodos.dll
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\Colecoes\10ClasseArray_Metodos\obj\Debug\net6.0\refint\10ClasseArray_Metodos.dll
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\Colecoes\10ClasseArray_Metodos\obj\Debug\net6.0\10ClasseArray_Metodos.pdb
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\Colecoes\10ClasseArray_Metodos\obj\Debug\net6.0\10ClasseArray_Metodos.genruntimeconfig.cache
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\Colecoes\10ClasseArray_Metodos\obj\Debug\net6.0\ref\10ClasseArray_Metodos.dll

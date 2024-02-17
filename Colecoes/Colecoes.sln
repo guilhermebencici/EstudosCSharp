@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1ArrayLacoFor", "1ArrayLaco
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1ArrayLacoForeach", "1ArrayLacoForeach\1ArrayLacoForeach.csproj", "{DB8E67CF-7E17-4F61-AFC5-A0130CE4AEED}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10ClasseArray_Metodos", "10ClasseArray_Metodos\10ClasseArray_Metodos.csproj", "{13D8BA05-D133-496B-9E88-0B6C832C4FBB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{DB8E67CF-7E17-4F61-AFC5-A0130CE4AEED}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DB8E67CF-7E17-4F61-AFC5-A0130CE4AEED}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DB8E67CF-7E17-4F61-AFC5-A0130CE4AEED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13D8BA05-D133-496B-9E88-0B6C832C4FBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13D8BA05-D133-496B-9E88-0B6C832C4FBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13D8BA05-D133-496B-9E88-0B6C832C4FBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13D8BA05-D133-496B-9E88-0B6C832C4FBB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
