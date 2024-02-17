@@ -1,0 +1,15 @@
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\Colecoes\ArrayExercicio\bin\Debug\net6.0\ArrayExercicio.exe
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\Colecoes\ArrayExercicio\bin\Debug\net6.0\ArrayExercicio.deps.json
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\Colecoes\ArrayExercicio\bin\Debug\net6.0\ArrayExercicio.runtimeconfig.json
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\Colecoes\ArrayExercicio\bin\Debug\net6.0\ArrayExercicio.dll
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\Colecoes\ArrayExercicio\bin\Debug\net6.0\ArrayExercicio.pdb
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\Colecoes\ArrayExercicio\obj\Debug\net6.0\ArrayExercicio.csproj.AssemblyReference.cache
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\Colecoes\ArrayExercicio\obj\Debug\net6.0\ArrayExercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\Colecoes\ArrayExercicio\obj\Debug\net6.0\ArrayExercicio.AssemblyInfoInputs.cache
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\Colecoes\ArrayExercicio\obj\Debug\net6.0\ArrayExercicio.AssemblyInfo.cs
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\Colecoes\ArrayExercicio\obj\Debug\net6.0\ArrayExercicio.csproj.CoreCompileInputs.cache
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\Colecoes\ArrayExercicio\obj\Debug\net6.0\ArrayExercicio.dll
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\Colecoes\ArrayExercicio\obj\Debug\net6.0\refint\ArrayExercicio.dll
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\Colecoes\ArrayExercicio\obj\Debug\net6.0\ArrayExercicio.pdb
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\Colecoes\ArrayExercicio\obj\Debug\net6.0\ArrayExercicio.genruntimeconfig.cache
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\Colecoes\ArrayExercicio\obj\Debug\net6.0\ref\ArrayExercicio.dll
