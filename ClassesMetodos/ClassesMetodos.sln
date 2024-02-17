@@ -51,6 +51,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "19ModificadoresAcesso1", "1
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20TratamentoErro", "20TratamentoErro\20TratamentoErro.csproj", "{98FAE3CB-A614-4D2C-930C-8960A74595EB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "21TiposAnonimos", "21TiposAnonimos\21TiposAnonimos.csproj", "{35D3BAB5-B3E3-4C99-B408-E8D4F03C30BB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -153,6 +155,10 @@ Global
 		{98FAE3CB-A614-4D2C-930C-8960A74595EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{98FAE3CB-A614-4D2C-930C-8960A74595EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{98FAE3CB-A614-4D2C-930C-8960A74595EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35D3BAB5-B3E3-4C99-B408-E8D4F03C30BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35D3BAB5-B3E3-4C99-B408-E8D4F03C30BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35D3BAB5-B3E3-4C99-B408-E8D4F03C30BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35D3BAB5-B3E3-4C99-B408-E8D4F03C30BB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

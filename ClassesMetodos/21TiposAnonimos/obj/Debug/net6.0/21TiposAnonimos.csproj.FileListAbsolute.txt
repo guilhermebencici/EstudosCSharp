@@ -1,0 +1,15 @@
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\ClassesMetodos\21TiposAnonimos\bin\Debug\net6.0\21TiposAnonimos.exe
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\ClassesMetodos\21TiposAnonimos\bin\Debug\net6.0\21TiposAnonimos.deps.json
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\ClassesMetodos\21TiposAnonimos\bin\Debug\net6.0\21TiposAnonimos.runtimeconfig.json
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\ClassesMetodos\21TiposAnonimos\bin\Debug\net6.0\21TiposAnonimos.dll
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\ClassesMetodos\21TiposAnonimos\bin\Debug\net6.0\21TiposAnonimos.pdb
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\ClassesMetodos\21TiposAnonimos\obj\Debug\net6.0\21TiposAnonimos.csproj.AssemblyReference.cache
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\ClassesMetodos\21TiposAnonimos\obj\Debug\net6.0\21TiposAnonimos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\ClassesMetodos\21TiposAnonimos\obj\Debug\net6.0\21TiposAnonimos.AssemblyInfoInputs.cache
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\ClassesMetodos\21TiposAnonimos\obj\Debug\net6.0\21TiposAnonimos.AssemblyInfo.cs
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\ClassesMetodos\21TiposAnonimos\obj\Debug\net6.0\21TiposAnonimos.csproj.CoreCompileInputs.cache
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\ClassesMetodos\21TiposAnonimos\obj\Debug\net6.0\21TiposAnonimos.dll
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\ClassesMetodos\21TiposAnonimos\obj\Debug\net6.0\refint\21TiposAnonimos.dll
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\ClassesMetodos\21TiposAnonimos\obj\Debug\net6.0\21TiposAnonimos.pdb
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\ClassesMetodos\21TiposAnonimos\obj\Debug\net6.0\21TiposAnonimos.genruntimeconfig.cache
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\ClassesMetodos\21TiposAnonimos\obj\Debug\net6.0\ref\21TiposAnonimos.dll
