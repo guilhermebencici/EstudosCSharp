@@ -53,6 +53,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20TratamentoErro", "20Trata
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "21TiposAnonimos", "21TiposAnonimos\21TiposAnonimos.csproj", "{35D3BAB5-B3E3-4C99-B408-E8D4F03C30BB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "22PartialClass", "22PartialClass\22PartialClass.csproj", "{B0AE3B60-5F98-416B-8EC9-F857171A0B37}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -159,6 +161,10 @@ Global
 		{35D3BAB5-B3E3-4C99-B408-E8D4F03C30BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{35D3BAB5-B3E3-4C99-B408-E8D4F03C30BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{35D3BAB5-B3E3-4C99-B408-E8D4F03C30BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0AE3B60-5F98-416B-8EC9-F857171A0B37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0AE3B60-5F98-416B-8EC9-F857171A0B37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0AE3B60-5F98-416B-8EC9-F857171A0B37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0AE3B60-5F98-416B-8EC9-F857171A0B37}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
