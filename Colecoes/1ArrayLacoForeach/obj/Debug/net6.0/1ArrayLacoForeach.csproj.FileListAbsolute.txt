@@ -1,0 +1,15 @@
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\Colecoes\1ArrayLacoForeach\bin\Debug\net6.0\1ArrayLacoForeach.exe
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\Colecoes\1ArrayLacoForeach\bin\Debug\net6.0\1ArrayLacoForeach.deps.json
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\Colecoes\1ArrayLacoForeach\bin\Debug\net6.0\1ArrayLacoForeach.runtimeconfig.json
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\Colecoes\1ArrayLacoForeach\bin\Debug\net6.0\1ArrayLacoForeach.dll
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\Colecoes\1ArrayLacoForeach\bin\Debug\net6.0\1ArrayLacoForeach.pdb
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\Colecoes\1ArrayLacoForeach\obj\Debug\net6.0\1ArrayLacoForeach.csproj.AssemblyReference.cache
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\Colecoes\1ArrayLacoForeach\obj\Debug\net6.0\1ArrayLacoForeach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\Colecoes\1ArrayLacoForeach\obj\Debug\net6.0\1ArrayLacoForeach.AssemblyInfoInputs.cache
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\Colecoes\1ArrayLacoForeach\obj\Debug\net6.0\1ArrayLacoForeach.AssemblyInfo.cs
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\Colecoes\1ArrayLacoForeach\obj\Debug\net6.0\1ArrayLacoForeach.csproj.CoreCompileInputs.cache
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\Colecoes\1ArrayLacoForeach\obj\Debug\net6.0\1ArrayLacoForeach.dll
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\Colecoes\1ArrayLacoForeach\obj\Debug\net6.0\refint\1ArrayLacoForeach.dll
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\Colecoes\1ArrayLacoForeach\obj\Debug\net6.0\1ArrayLacoForeach.pdb
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\Colecoes\1ArrayLacoForeach\obj\Debug\net6.0\1ArrayLacoForeach.genruntimeconfig.cache
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\Colecoes\1ArrayLacoForeach\obj\Debug\net6.0\ref\1ArrayLacoForeach.dll
