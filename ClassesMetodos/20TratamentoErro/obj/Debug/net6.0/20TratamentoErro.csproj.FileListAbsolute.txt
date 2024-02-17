@@ -1,0 +1,15 @@
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\ClassesMetodos\20TratamentoErro\bin\Debug\net6.0\20TratamentoErro.exe
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\ClassesMetodos\20TratamentoErro\bin\Debug\net6.0\20TratamentoErro.deps.json
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\ClassesMetodos\20TratamentoErro\bin\Debug\net6.0\20TratamentoErro.runtimeconfig.json
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\ClassesMetodos\20TratamentoErro\bin\Debug\net6.0\20TratamentoErro.dll
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\ClassesMetodos\20TratamentoErro\bin\Debug\net6.0\20TratamentoErro.pdb
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\ClassesMetodos\20TratamentoErro\obj\Debug\net6.0\20TratamentoErro.csproj.AssemblyReference.cache
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\ClassesMetodos\20TratamentoErro\obj\Debug\net6.0\20TratamentoErro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\ClassesMetodos\20TratamentoErro\obj\Debug\net6.0\20TratamentoErro.AssemblyInfoInputs.cache
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\ClassesMetodos\20TratamentoErro\obj\Debug\net6.0\20TratamentoErro.AssemblyInfo.cs
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\ClassesMetodos\20TratamentoErro\obj\Debug\net6.0\20TratamentoErro.csproj.CoreCompileInputs.cache
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\ClassesMetodos\20TratamentoErro\obj\Debug\net6.0\20TratamentoErro.dll
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\ClassesMetodos\20TratamentoErro\obj\Debug\net6.0\refint\20TratamentoErro.dll
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\ClassesMetodos\20TratamentoErro\obj\Debug\net6.0\20TratamentoErro.pdb
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\ClassesMetodos\20TratamentoErro\obj\Debug\net6.0\20TratamentoErro.genruntimeconfig.cache
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\ClassesMetodos\20TratamentoErro\obj\Debug\net6.0\ref\20TratamentoErro.dll
