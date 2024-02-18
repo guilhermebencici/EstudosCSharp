@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9ModificadorParams", "9Modi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3ArraysBidimensionais", "3ArraysBidimensionais\3ArraysBidimensionais.csproj", "{6EFFA869-0827-4C7A-A058-A0FB72CB8EE0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3ArraysBidimensionaisForForeach", "3ArraysBidimensionaisForForeach\3ArraysBidimensionaisForForeach.csproj", "{D6EE497A-DEDB-4D5F-9E38-617292FB2A70}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{6EFFA869-0827-4C7A-A058-A0FB72CB8EE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6EFFA869-0827-4C7A-A058-A0FB72CB8EE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6EFFA869-0827-4C7A-A058-A0FB72CB8EE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6EE497A-DEDB-4D5F-9E38-617292FB2A70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6EE497A-DEDB-4D5F-9E38-617292FB2A70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6EE497A-DEDB-4D5F-9E38-617292FB2A70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6EE497A-DEDB-4D5F-9E38-617292FB2A70}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
