@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6ArrayList3Remove", "6Array
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6ArrayListOrdenarRemoverTodos", "6ArrayListOrdenarRemoverTodos\6ArrayListOrdenarRemoverTodos.csproj", "{9493107E-E1BA-42C3-988B-67BB6E46EF59}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7List-T-", "7List-T-\7List-T-.csproj", "{3EE5BAF2-8CF2-4968-8AF6-62F51284EA99}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{9493107E-E1BA-42C3-988B-67BB6E46EF59}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9493107E-E1BA-42C3-988B-67BB6E46EF59}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9493107E-E1BA-42C3-988B-67BB6E46EF59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3EE5BAF2-8CF2-4968-8AF6-62F51284EA99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EE5BAF2-8CF2-4968-8AF6-62F51284EA99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EE5BAF2-8CF2-4968-8AF6-62F51284EA99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EE5BAF2-8CF2-4968-8AF6-62F51284EA99}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
