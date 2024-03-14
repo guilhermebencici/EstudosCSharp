@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "7List-T-AlterandoElemento/1.0.0": {
+        "runtime": {
+          "7List-T-AlterandoElemento.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "7List-T-AlterandoElemento/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

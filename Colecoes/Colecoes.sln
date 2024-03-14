@@ -37,6 +37,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7List-T-MetodosRemove", "7L
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7List-T-AcessandoElementos", "7List-T-AcessandoElementos\7List-T-AcessandoElementos.csproj", "{AAC4B68A-1397-4746-A147-35D01C998999}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7List-T-AlterandoElemento", "7List-T-AlterandoElemento\7List-T-AlterandoElemento.csproj", "{4C0557FE-D468-4B2A-8ADC-9ED8C39DF58B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +113,10 @@ Global
 		{AAC4B68A-1397-4746-A147-35D01C998999}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AAC4B68A-1397-4746-A147-35D01C998999}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AAC4B68A-1397-4746-A147-35D01C998999}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C0557FE-D468-4B2A-8ADC-9ED8C39DF58B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C0557FE-D468-4B2A-8ADC-9ED8C39DF58B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C0557FE-D468-4B2A-8ADC-9ED8C39DF58B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C0557FE-D468-4B2A-8ADC-9ED8C39DF58B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

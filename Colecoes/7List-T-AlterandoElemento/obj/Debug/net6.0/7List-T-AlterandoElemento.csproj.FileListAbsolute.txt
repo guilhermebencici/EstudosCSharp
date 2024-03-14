@@ -1,0 +1,15 @@
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\Colecoes\7List-T-AlterandoElemento\bin\Debug\net6.0\7List-T-AlterandoElemento.exe
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\Colecoes\7List-T-AlterandoElemento\bin\Debug\net6.0\7List-T-AlterandoElemento.deps.json
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\Colecoes\7List-T-AlterandoElemento\bin\Debug\net6.0\7List-T-AlterandoElemento.runtimeconfig.json
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\Colecoes\7List-T-AlterandoElemento\bin\Debug\net6.0\7List-T-AlterandoElemento.dll
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\Colecoes\7List-T-AlterandoElemento\bin\Debug\net6.0\7List-T-AlterandoElemento.pdb
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\Colecoes\7List-T-AlterandoElemento\obj\Debug\net6.0\7List-T-AlterandoElemento.csproj.AssemblyReference.cache
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\Colecoes\7List-T-AlterandoElemento\obj\Debug\net6.0\7List-T-AlterandoElemento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\Colecoes\7List-T-AlterandoElemento\obj\Debug\net6.0\7List-T-AlterandoElemento.AssemblyInfoInputs.cache
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\Colecoes\7List-T-AlterandoElemento\obj\Debug\net6.0\7List-T-AlterandoElemento.AssemblyInfo.cs
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\Colecoes\7List-T-AlterandoElemento\obj\Debug\net6.0\7List-T-AlterandoElemento.csproj.CoreCompileInputs.cache
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\Colecoes\7List-T-AlterandoElemento\obj\Debug\net6.0\7List-T-AlterandoElemento.dll
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\Colecoes\7List-T-AlterandoElemento\obj\Debug\net6.0\refint\7List-T-AlterandoElemento.dll
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\Colecoes\7List-T-AlterandoElemento\obj\Debug\net6.0\7List-T-AlterandoElemento.pdb
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\Colecoes\7List-T-AlterandoElemento\obj\Debug\net6.0\7List-T-AlterandoElemento.genruntimeconfig.cache
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\Colecoes\7List-T-AlterandoElemento\obj\Debug\net6.0\ref\7List-T-AlterandoElemento.dll
