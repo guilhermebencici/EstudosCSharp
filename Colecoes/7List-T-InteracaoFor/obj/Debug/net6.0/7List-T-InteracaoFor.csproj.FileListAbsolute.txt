@@ -1,0 +1,15 @@
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\Colecoes\7List-T-InteracaoFor\bin\Debug\net6.0\7List-T-InteracaoFor.exe
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\Colecoes\7List-T-InteracaoFor\bin\Debug\net6.0\7List-T-InteracaoFor.deps.json
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\Colecoes\7List-T-InteracaoFor\bin\Debug\net6.0\7List-T-InteracaoFor.runtimeconfig.json
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\Colecoes\7List-T-InteracaoFor\bin\Debug\net6.0\7List-T-InteracaoFor.dll
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\Colecoes\7List-T-InteracaoFor\bin\Debug\net6.0\7List-T-InteracaoFor.pdb
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\Colecoes\7List-T-InteracaoFor\obj\Debug\net6.0\7List-T-InteracaoFor.csproj.AssemblyReference.cache
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\Colecoes\7List-T-InteracaoFor\obj\Debug\net6.0\7List-T-InteracaoFor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\Colecoes\7List-T-InteracaoFor\obj\Debug\net6.0\7List-T-InteracaoFor.AssemblyInfoInputs.cache
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\Colecoes\7List-T-InteracaoFor\obj\Debug\net6.0\7List-T-InteracaoFor.AssemblyInfo.cs
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\Colecoes\7List-T-InteracaoFor\obj\Debug\net6.0\7List-T-InteracaoFor.csproj.CoreCompileInputs.cache
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\Colecoes\7List-T-InteracaoFor\obj\Debug\net6.0\7List-T-InteracaoFor.dll
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\Colecoes\7List-T-InteracaoFor\obj\Debug\net6.0\refint\7List-T-InteracaoFor.dll
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\Colecoes\7List-T-InteracaoFor\obj\Debug\net6.0\7List-T-InteracaoFor.pdb
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\Colecoes\7List-T-InteracaoFor\obj\Debug\net6.0\7List-T-InteracaoFor.genruntimeconfig.cache
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\Colecoes\7List-T-InteracaoFor\obj\Debug\net6.0\ref\7List-T-InteracaoFor.dll
