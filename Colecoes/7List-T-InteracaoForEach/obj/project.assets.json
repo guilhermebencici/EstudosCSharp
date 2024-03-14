@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\guilherme.a.souza\\Desktop\\Anima_UDEMY\\EstudosCSharp\\Colecoes\\7List-T-InteracaoFor\\7List-T-IteracaoFor.csproj",
-      "projectName": "7List-T-IteracaoFor",
-      "projectPath": "C:\\Users\\guilherme.a.souza\\Desktop\\Anima_UDEMY\\EstudosCSharp\\Colecoes\\7List-T-InteracaoFor\\7List-T-IteracaoFor.csproj",
+      "projectUniqueName": "C:\\Users\\guilherme.a.souza\\Desktop\\Anima_UDEMY\\EstudosCSharp\\Colecoes\\7List-T-InteracaoForEach\\7List-T-IteracaoForEach.csproj",
+      "projectName": "7List-T-IteracaoForEach",
+      "projectPath": "C:\\Users\\guilherme.a.souza\\Desktop\\Anima_UDEMY\\EstudosCSharp\\Colecoes\\7List-T-InteracaoForEach\\7List-T-IteracaoForEach.csproj",
       "packagesPath": "C:\\Users\\guilherme.a.souza\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\guilherme.a.souza\\Desktop\\Anima_UDEMY\\EstudosCSharp\\Colecoes\\7List-T-InteracaoFor\\obj\\",
+      "outputPath": "C:\\Users\\guilherme.a.souza\\Desktop\\Anima_UDEMY\\EstudosCSharp\\Colecoes\\7List-T-InteracaoForEach\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
