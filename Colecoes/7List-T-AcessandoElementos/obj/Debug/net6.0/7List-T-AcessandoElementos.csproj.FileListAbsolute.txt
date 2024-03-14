@@ -1,0 +1,15 @@
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\Colecoes\7List-T-AcessandoElementos\bin\Debug\net6.0\7List-T-AcessandoElementos.exe
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\Colecoes\7List-T-AcessandoElementos\bin\Debug\net6.0\7List-T-AcessandoElementos.deps.json
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\Colecoes\7List-T-AcessandoElementos\bin\Debug\net6.0\7List-T-AcessandoElementos.runtimeconfig.json
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\Colecoes\7List-T-AcessandoElementos\bin\Debug\net6.0\7List-T-AcessandoElementos.dll
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\Colecoes\7List-T-AcessandoElementos\bin\Debug\net6.0\7List-T-AcessandoElementos.pdb
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\Colecoes\7List-T-AcessandoElementos\obj\Debug\net6.0\7List-T-AcessandoElementos.csproj.AssemblyReference.cache
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\Colecoes\7List-T-AcessandoElementos\obj\Debug\net6.0\7List-T-AcessandoElementos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\Colecoes\7List-T-AcessandoElementos\obj\Debug\net6.0\7List-T-AcessandoElementos.AssemblyInfoInputs.cache
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\Colecoes\7List-T-AcessandoElementos\obj\Debug\net6.0\7List-T-AcessandoElementos.AssemblyInfo.cs
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\Colecoes\7List-T-AcessandoElementos\obj\Debug\net6.0\7List-T-AcessandoElementos.csproj.CoreCompileInputs.cache
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\Colecoes\7List-T-AcessandoElementos\obj\Debug\net6.0\7List-T-AcessandoElementos.dll
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\Colecoes\7List-T-AcessandoElementos\obj\Debug\net6.0\refint\7List-T-AcessandoElementos.dll
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\Colecoes\7List-T-AcessandoElementos\obj\Debug\net6.0\7List-T-AcessandoElementos.pdb
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\Colecoes\7List-T-AcessandoElementos\obj\Debug\net6.0\7List-T-AcessandoElementos.genruntimeconfig.cache
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\Colecoes\7List-T-AcessandoElementos\obj\Debug\net6.0\ref\7List-T-AcessandoElementos.dll
