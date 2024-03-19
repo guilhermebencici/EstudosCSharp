@@ -3,14 +3,8 @@
     "Uva", "Banana", "Pera", "Maça", "Abacate", "Laranja", "Morango"
 };
 
-var fruta1 = frutas.Find(Procura);
+//expressão Lambda
+var fruta1 = frutas.Find(i => i.Contains('n'));
 Console.WriteLine(fruta1);
 
-
 Console.ReadKey();
-
-// predicado
-static bool Procura(string item)
-{
-    return item.Contains('n');
-}
