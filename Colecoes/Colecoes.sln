@@ -31,15 +31,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "6ArrayListOrdenarRemoverTod
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "7List-T-", "7List-T-\7List-T-.csproj", "{3EE5BAF2-8CF2-4968-8AF6-62F51284EA99}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7List-T-MetodosAdd", "7List-T-Metodos\7List-T-MetodosAdd.csproj", "{2991C3B4-8B8D-4DD2-A79A-FCC16B0B7414}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "7List-T-MetodosAdd", "7List-T-Metodos\7List-T-MetodosAdd.csproj", "{2991C3B4-8B8D-4DD2-A79A-FCC16B0B7414}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7List-T-MetodosRemove", "7List-T-MetodosRemove\7List-T-MetodosRemove.csproj", "{587EDD6A-469B-4B5B-9DD1-03BE0AF494F8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "7List-T-MetodosRemove", "7List-T-MetodosRemove\7List-T-MetodosRemove.csproj", "{587EDD6A-469B-4B5B-9DD1-03BE0AF494F8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7List-T-AcessandoElementos", "7List-T-AcessandoElementos\7List-T-AcessandoElementos.csproj", "{AAC4B68A-1397-4746-A147-35D01C998999}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "7List-T-AcessandoElementos", "7List-T-AcessandoElementos\7List-T-AcessandoElementos.csproj", "{AAC4B68A-1397-4746-A147-35D01C998999}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7List-T-AlterandoElemento", "7List-T-AlterandoElemento\7List-T-AlterandoElemento.csproj", "{4C0557FE-D468-4B2A-8ADC-9ED8C39DF58B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "7List-T-AlterandoElemento", "7List-T-AlterandoElemento\7List-T-AlterandoElemento.csproj", "{4C0557FE-D468-4B2A-8ADC-9ED8C39DF58B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7List-T-InteracaoFor", "7List-T-InteracaoFor\7List-T-InteracaoFor.csproj", "{F89B4F1A-85F9-48FD-9111-0DAA788C3192}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "7List-T-IteracaoFor", "7List-T-InteracaoFor\7List-T-IteracaoFor.csproj", "{F89B4F1A-85F9-48FD-9111-0DAA788C3192}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "7List-T-IteracaoForEach", "7List-T-InteracaoForEach\7List-T-IteracaoForEach.csproj", "{29BAD985-16A6-4E1B-99E5-D96C35519AA0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7List-T-MetodosFind", "7List-T-MetodosFind\7List-T-MetodosFind.csproj", "{FA9F3378-57C7-425D-9962-92056BFF894A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -123,6 +127,14 @@ Global
 		{F89B4F1A-85F9-48FD-9111-0DAA788C3192}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F89B4F1A-85F9-48FD-9111-0DAA788C3192}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F89B4F1A-85F9-48FD-9111-0DAA788C3192}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29BAD985-16A6-4E1B-99E5-D96C35519AA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29BAD985-16A6-4E1B-99E5-D96C35519AA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29BAD985-16A6-4E1B-99E5-D96C35519AA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29BAD985-16A6-4E1B-99E5-D96C35519AA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA9F3378-57C7-425D-9962-92056BFF894A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA9F3378-57C7-425D-9962-92056BFF894A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA9F3378-57C7-425D-9962-92056BFF894A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA9F3378-57C7-425D-9962-92056BFF894A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
