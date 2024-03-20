@@ -19,5 +19,12 @@ Console.WriteLine($"\n Utilizando o FindIndex: indice: {fruta3} o que equivale a
 var fruta4 = frutas.FindLastIndex(i => i.Contains('n'));
 Console.WriteLine($"\n Utilizando o FindLastIndex: indice: {fruta4} o que equivale ao item = {frutas[fruta4]}");
 
+// retorna os elementos que atendem o critério, retornando o subconjunto da coleção
+var frutas5 = frutas.FindAll(i => i.Contains('n'));
 
+Console.Write("\n Exibindo FindAll");
+foreach (var item in frutas5)
+{
+    Console.WriteLine($"{item}");
+}
 Console.ReadKey();
