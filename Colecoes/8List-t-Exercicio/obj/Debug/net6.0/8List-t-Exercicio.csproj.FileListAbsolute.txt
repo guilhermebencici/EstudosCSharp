@@ -1,0 +1,15 @@
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\Colecoes\8List-t-Exercicio\bin\Debug\net6.0\8List-t-Exercicio.exe
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\Colecoes\8List-t-Exercicio\bin\Debug\net6.0\8List-t-Exercicio.deps.json
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\Colecoes\8List-t-Exercicio\bin\Debug\net6.0\8List-t-Exercicio.runtimeconfig.json
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\Colecoes\8List-t-Exercicio\bin\Debug\net6.0\8List-t-Exercicio.dll
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\Colecoes\8List-t-Exercicio\bin\Debug\net6.0\8List-t-Exercicio.pdb
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\Colecoes\8List-t-Exercicio\obj\Debug\net6.0\8List-t-Exercicio.csproj.AssemblyReference.cache
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\Colecoes\8List-t-Exercicio\obj\Debug\net6.0\8List-t-Exercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\Colecoes\8List-t-Exercicio\obj\Debug\net6.0\8List-t-Exercicio.AssemblyInfoInputs.cache
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\Colecoes\8List-t-Exercicio\obj\Debug\net6.0\8List-t-Exercicio.AssemblyInfo.cs
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\Colecoes\8List-t-Exercicio\obj\Debug\net6.0\8List-t-Exercicio.csproj.CoreCompileInputs.cache
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\Colecoes\8List-t-Exercicio\obj\Debug\net6.0\8List-t-Exercicio.dll
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\Colecoes\8List-t-Exercicio\obj\Debug\net6.0\refint\8List-t-Exercicio.dll
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\Colecoes\8List-t-Exercicio\obj\Debug\net6.0\8List-t-Exercicio.pdb
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\Colecoes\8List-t-Exercicio\obj\Debug\net6.0\8List-t-Exercicio.genruntimeconfig.cache
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\Colecoes\8List-t-Exercicio\obj\Debug\net6.0\ref\8List-t-Exercicio.dll

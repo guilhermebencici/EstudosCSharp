@@ -43,7 +43,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "7List-T-IteracaoFor", "7Lis
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "7List-T-IteracaoForEach", "7List-T-InteracaoForEach\7List-T-IteracaoForEach.csproj", "{29BAD985-16A6-4E1B-99E5-D96C35519AA0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7List-T-MetodosFind", "7List-T-MetodosFind\7List-T-MetodosFind.csproj", "{FA9F3378-57C7-425D-9962-92056BFF894A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "7List-T-MetodosFind", "7List-T-MetodosFind\7List-T-MetodosFind.csproj", "{FA9F3378-57C7-425D-9962-92056BFF894A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8List-t-Exercicio", "8List-t-Exercicio\8List-t-Exercicio.csproj", "{5170444E-4718-4E20-9391-1FEF2349D919}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -135,6 +137,10 @@ Global
 		{FA9F3378-57C7-425D-9962-92056BFF894A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FA9F3378-57C7-425D-9962-92056BFF894A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FA9F3378-57C7-425D-9962-92056BFF894A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5170444E-4718-4E20-9391-1FEF2349D919}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5170444E-4718-4E20-9391-1FEF2349D919}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5170444E-4718-4E20-9391-1FEF2349D919}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5170444E-4718-4E20-9391-1FEF2349D919}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
