@@ -1,0 +1,15 @@
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\Colecoes\11NumerosAleatorios\bin\Debug\net6.0\11NumerosAleatorios.exe
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\Colecoes\11NumerosAleatorios\bin\Debug\net6.0\11NumerosAleatorios.deps.json
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\Colecoes\11NumerosAleatorios\bin\Debug\net6.0\11NumerosAleatorios.runtimeconfig.json
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\Colecoes\11NumerosAleatorios\bin\Debug\net6.0\11NumerosAleatorios.dll
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\Colecoes\11NumerosAleatorios\bin\Debug\net6.0\11NumerosAleatorios.pdb
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\Colecoes\11NumerosAleatorios\obj\Debug\net6.0\11NumerosAleatorios.csproj.AssemblyReference.cache
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\Colecoes\11NumerosAleatorios\obj\Debug\net6.0\11NumerosAleatorios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\Colecoes\11NumerosAleatorios\obj\Debug\net6.0\11NumerosAleatorios.AssemblyInfoInputs.cache
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\Colecoes\11NumerosAleatorios\obj\Debug\net6.0\11NumerosAleatorios.AssemblyInfo.cs
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\Colecoes\11NumerosAleatorios\obj\Debug\net6.0\11NumerosAleatorios.csproj.CoreCompileInputs.cache
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\Colecoes\11NumerosAleatorios\obj\Debug\net6.0\11NumerosAleatorios.dll
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\Colecoes\11NumerosAleatorios\obj\Debug\net6.0\refint\11NumerosAleatorios.dll
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\Colecoes\11NumerosAleatorios\obj\Debug\net6.0\11NumerosAleatorios.pdb
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\Colecoes\11NumerosAleatorios\obj\Debug\net6.0\11NumerosAleatorios.genruntimeconfig.cache
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\Colecoes\11NumerosAleatorios\obj\Debug\net6.0\ref\11NumerosAleatorios.dll
