@@ -5,6 +5,10 @@ VisualStudioVersion = 17.3.32825.248
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1Heranca_ConceitoSintaxe", "1Heranca_ConceitoSintaxe\1Heranca_ConceitoSintaxe.csproj", "{F661FC0B-CE95-4967-8D4A-C6E6820420AD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2Heranca_ModificadorAcesso", "2Heranca_ModificadorAcesso\2Heranca_ModificadorAcesso.csproj", "{C561FE6F-357B-4F42-8943-01C9ABCBFCE2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3Heranca_Construtores", "3Heranca_Construtores\3Heranca_Construtores.csproj", "{26B980F2-C8AE-4BC1-92F1-E85E0BEA5848}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{F661FC0B-CE95-4967-8D4A-C6E6820420AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F661FC0B-CE95-4967-8D4A-C6E6820420AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F661FC0B-CE95-4967-8D4A-C6E6820420AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C561FE6F-357B-4F42-8943-01C9ABCBFCE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C561FE6F-357B-4F42-8943-01C9ABCBFCE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C561FE6F-357B-4F42-8943-01C9ABCBFCE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C561FE6F-357B-4F42-8943-01C9ABCBFCE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26B980F2-C8AE-4BC1-92F1-E85E0BEA5848}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26B980F2-C8AE-4BC1-92F1-E85E0BEA5848}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26B980F2-C8AE-4BC1-92F1-E85E0BEA5848}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26B980F2-C8AE-4BC1-92F1-E85E0BEA5848}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

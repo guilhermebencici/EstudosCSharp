@@ -1,0 +1,15 @@
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\EstudoPOO\3Heranca_Construtores\bin\Debug\net6.0\3Heranca_Construtores.exe
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\EstudoPOO\3Heranca_Construtores\bin\Debug\net6.0\3Heranca_Construtores.deps.json
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\EstudoPOO\3Heranca_Construtores\bin\Debug\net6.0\3Heranca_Construtores.runtimeconfig.json
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\EstudoPOO\3Heranca_Construtores\bin\Debug\net6.0\3Heranca_Construtores.dll
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\EstudoPOO\3Heranca_Construtores\bin\Debug\net6.0\3Heranca_Construtores.pdb
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\EstudoPOO\3Heranca_Construtores\obj\Debug\net6.0\3Heranca_Construtores.csproj.AssemblyReference.cache
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\EstudoPOO\3Heranca_Construtores\obj\Debug\net6.0\3Heranca_Construtores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\EstudoPOO\3Heranca_Construtores\obj\Debug\net6.0\3Heranca_Construtores.AssemblyInfoInputs.cache
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\EstudoPOO\3Heranca_Construtores\obj\Debug\net6.0\3Heranca_Construtores.AssemblyInfo.cs
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\EstudoPOO\3Heranca_Construtores\obj\Debug\net6.0\3Heranca_Construtores.csproj.CoreCompileInputs.cache
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\EstudoPOO\3Heranca_Construtores\obj\Debug\net6.0\3Heranca_Construtores.dll
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\EstudoPOO\3Heranca_Construtores\obj\Debug\net6.0\refint\3Heranca_Construtores.dll
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\EstudoPOO\3Heranca_Construtores\obj\Debug\net6.0\3Heranca_Construtores.pdb
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\EstudoPOO\3Heranca_Construtores\obj\Debug\net6.0\3Heranca_Construtores.genruntimeconfig.cache
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\EstudoPOO\3Heranca_Construtores\obj\Debug\net6.0\ref\3Heranca_Construtores.dll
