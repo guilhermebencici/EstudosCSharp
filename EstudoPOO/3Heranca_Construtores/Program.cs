@@ -11,17 +11,21 @@ class Pessoa
     {
         Console.WriteLine("Primeio é chamado o Construtor da Classe Base ( Pessoa )");
     }
+    public Pessoa(string nome)
+    {
+        Console.WriteLine("Construtor da Classe Base ( Pessoa ) COM parâmetro!");
+    }
 }
 
 class Aluno : Pessoa
 {
-    public Aluno()
+    public Aluno() : base() // ao colocar o ": base() " o construtor chamado será o da classe base e não da derivada
     {
         Console.WriteLine("Segundo é chamado o Construtor da Classe Derivada ( Aluno )");
     }
 
-    public Aluno(string nome)
+    public Aluno(string nome) : base(nome) // ao colocar o ": base() " o construtor chamado será o da classe base e não da derivada
     {
-        Console.WriteLine("Construtor da Classe Base ( Aluno ) COM parâmetro!");
+        Console.WriteLine("Construtor da Classe Derivada ( Aluno ) COM parâmetro!");
     }
 }
