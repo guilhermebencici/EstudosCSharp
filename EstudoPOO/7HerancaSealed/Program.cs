@@ -1,4 +1,8 @@
 ﻿
+Cliente c = new();
+
+//c.Nome = "José"; //Não vai mais funcioar, pois a herança foi perdida
+
 Console.ReadKey();
 
 class Pessoa
@@ -10,10 +14,11 @@ class Pessoa
     }
 }
 
-class Cliente : Pessoa
+class Cliente
 {
     public new void ExibeNome()
     {
-        Console.WriteLine($"\n Nome do Cliente: {Nome}");
+        // por causa do SEALED, a classe Cliente não pode mais herdar da classe Pessoa.
+        //Console.WriteLine($"\n Nome do Cliente: {Nome}");
     }
 }
