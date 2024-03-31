@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Comment CommentText="HERANÇA SIMPLES&#xD;&#xA;&#xD;&#xA;Conta -&gt; ContaPoupanca&#xD;&#xA; ">
+    <Position X="1.021" Y="0.76" Height="0.729" Width="1.783" />
+  </Comment>
+  <Comment CommentText="HERANÇA HIERARQUICA&#xD;&#xA;&#xD;&#xA;BaseA [     --&gt; Derivada B&#xD;&#xA;	--&gt; Derivada C ]&#xD;&#xA;	&#xD;&#xA; ">
+    <Position X="4.437" Y="0.5" Height="0.969" Width="1.783" />
+  </Comment>
+  <Comment CommentText="HERANÇA MULTINIVEL&#xD;&#xA;&#xD;&#xA;D_Heranca_Multinivel  --&gt; E_Heranca_Multinivel --&gt; F_Heranca_Multinivel ">
+    <Position X="7.708" Y="0.521" Height="0.969" Width="4.346" />
+  </Comment>
+  <Comment CommentText="HERANÇA MULTIPLA&#xD;&#xA;&#xD;&#xA;Forma -&gt; Quadrado -&gt; Interface&#xD;&#xA;	&#xD;&#xA; ">
+    <Position X="12.299" Y="2.117" Height="0.969" Width="1.783" />
+  </Comment>
+  <Class Name="_8Heranca_Tipos.Conta" Collapsed="true">
+    <Position X="1.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAABAAA=</HashCode>
+      <FileName>Conta.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_8Heranca_Tipos.ContaPoupanca" Collapsed="true">
+    <Position X="1" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ContaPoupanca.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_8Heranca_Tipos.BaseA" Collapsed="true">
+    <Position X="4.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BaseA.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_8Heranca_Tipos.DerivadaB_Heranca_Hierarquica" Collapsed="true">
+    <Position X="3.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DerivadaB_Heranca_Hierarquica.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_8Heranca_Tipos.DerivadaC_Heranca_Hierarquica" Collapsed="true">
+    <Position X="5.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DerivadaC_Heranca_Hierarquica.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_8Heranca_Tipos.D_Heranca_Multinivel" Collapsed="true">
+    <Position X="8.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>D_Heranca_Multinivel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_8Heranca_Tipos.E_Heranca_Multinivel" Collapsed="true">
+    <Position X="8.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>E_Heranca_Multinivel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_8Heranca_Tipos.F_Heranca_Multinivel" Collapsed="true">
+    <Position X="8.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>F_Heranca_Multinivel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_8Heranca_Tipos.Forma" Collapsed="true">
+    <Position X="12.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Forma.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_8Heranca_Tipos.Quadrado" Collapsed="true">
+    <Position X="12.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAEAAAAAA=</HashCode>
+      <FileName>Quadrado.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
