@@ -1,8 +1,14 @@
 ﻿using _9Heranca_UpCasting_DownCasting;
 
-//convertendo um objeto de um tipo mais específico para um tipo mais geral.
-Forma circulo = new Circulo(10, 20);// UpCasting
+Circulo circulo = new Circulo(20, 20);
+Forma f = circulo; // upcasting
 
-circulo.Desenhar();
+Circulo c = (Circulo)f; // downcasting
+
+c.Desenhar();
+c.PintarCirculo();
+
+Console.WriteLine(c == f);
+Console.WriteLine(c == circulo);
 
 Console.ReadKey();
