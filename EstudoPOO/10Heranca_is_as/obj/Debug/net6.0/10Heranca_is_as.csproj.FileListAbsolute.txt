@@ -1,0 +1,15 @@
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\EstudoPOO\10Heranca_is_as\bin\Debug\net6.0\10Heranca_is_as.exe
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\EstudoPOO\10Heranca_is_as\bin\Debug\net6.0\10Heranca_is_as.deps.json
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\EstudoPOO\10Heranca_is_as\bin\Debug\net6.0\10Heranca_is_as.runtimeconfig.json
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\EstudoPOO\10Heranca_is_as\bin\Debug\net6.0\10Heranca_is_as.dll
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\EstudoPOO\10Heranca_is_as\bin\Debug\net6.0\10Heranca_is_as.pdb
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\EstudoPOO\10Heranca_is_as\obj\Debug\net6.0\10Heranca_is_as.csproj.AssemblyReference.cache
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\EstudoPOO\10Heranca_is_as\obj\Debug\net6.0\10Heranca_is_as.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\EstudoPOO\10Heranca_is_as\obj\Debug\net6.0\10Heranca_is_as.AssemblyInfoInputs.cache
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\EstudoPOO\10Heranca_is_as\obj\Debug\net6.0\10Heranca_is_as.AssemblyInfo.cs
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\EstudoPOO\10Heranca_is_as\obj\Debug\net6.0\10Heranca_is_as.csproj.CoreCompileInputs.cache
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\EstudoPOO\10Heranca_is_as\obj\Debug\net6.0\10Heranca_is_as.dll
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\EstudoPOO\10Heranca_is_as\obj\Debug\net6.0\refint\10Heranca_is_as.dll
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\EstudoPOO\10Heranca_is_as\obj\Debug\net6.0\10Heranca_is_as.pdb
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\EstudoPOO\10Heranca_is_as\obj\Debug\net6.0\10Heranca_is_as.genruntimeconfig.cache
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\EstudoPOO\10Heranca_is_as\obj\Debug\net6.0\ref\10Heranca_is_as.dll
