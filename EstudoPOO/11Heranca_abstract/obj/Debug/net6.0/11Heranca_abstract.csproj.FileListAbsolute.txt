@@ -1,0 +1,15 @@
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\EstudoPOO\11Heranca_abstract\bin\Debug\net6.0\11Heranca_abstract.exe
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\EstudoPOO\11Heranca_abstract\bin\Debug\net6.0\11Heranca_abstract.deps.json
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\EstudoPOO\11Heranca_abstract\bin\Debug\net6.0\11Heranca_abstract.runtimeconfig.json
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\EstudoPOO\11Heranca_abstract\bin\Debug\net6.0\11Heranca_abstract.dll
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\EstudoPOO\11Heranca_abstract\bin\Debug\net6.0\11Heranca_abstract.pdb
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\EstudoPOO\11Heranca_abstract\obj\Debug\net6.0\11Heranca_abstract.csproj.AssemblyReference.cache
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\EstudoPOO\11Heranca_abstract\obj\Debug\net6.0\11Heranca_abstract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\EstudoPOO\11Heranca_abstract\obj\Debug\net6.0\11Heranca_abstract.AssemblyInfoInputs.cache
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\EstudoPOO\11Heranca_abstract\obj\Debug\net6.0\11Heranca_abstract.AssemblyInfo.cs
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\EstudoPOO\11Heranca_abstract\obj\Debug\net6.0\11Heranca_abstract.csproj.CoreCompileInputs.cache
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\EstudoPOO\11Heranca_abstract\obj\Debug\net6.0\11Heranca_abstract.dll
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\EstudoPOO\11Heranca_abstract\obj\Debug\net6.0\refint\11Heranca_abstract.dll
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\EstudoPOO\11Heranca_abstract\obj\Debug\net6.0\11Heranca_abstract.pdb
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\EstudoPOO\11Heranca_abstract\obj\Debug\net6.0\11Heranca_abstract.genruntimeconfig.cache
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\EstudoPOO\11Heranca_abstract\obj\Debug\net6.0\ref\11Heranca_abstract.dll
