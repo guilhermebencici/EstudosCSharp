@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01Generics", "01Generics\01
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02Generics", "02Generics\02Generics.csproj", "{FDFF24CB-F3D6-439A-9F45-C0BE62445036}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "061GetHashCode_Equals", "061GetHashCode_Equals\061GetHashCode_Equals.csproj", "{567BE606-99CA-4E2E-A382-8E76A225B8DD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{FDFF24CB-F3D6-439A-9F45-C0BE62445036}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FDFF24CB-F3D6-439A-9F45-C0BE62445036}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FDFF24CB-F3D6-439A-9F45-C0BE62445036}.Release|Any CPU.Build.0 = Release|Any CPU
+		{567BE606-99CA-4E2E-A382-8E76A225B8DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{567BE606-99CA-4E2E-A382-8E76A225B8DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{567BE606-99CA-4E2E-A382-8E76A225B8DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{567BE606-99CA-4E2E-A382-8E76A225B8DD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
