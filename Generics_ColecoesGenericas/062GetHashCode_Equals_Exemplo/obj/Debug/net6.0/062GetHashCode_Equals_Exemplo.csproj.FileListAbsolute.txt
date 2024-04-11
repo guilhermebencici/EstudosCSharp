@@ -1,0 +1,15 @@
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\Generics_ColecoesGenericas\062GetHashCode_Equals_Exemplo\bin\Debug\net6.0\062GetHashCode_Equals_Exemplo.exe
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\Generics_ColecoesGenericas\062GetHashCode_Equals_Exemplo\bin\Debug\net6.0\062GetHashCode_Equals_Exemplo.deps.json
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\Generics_ColecoesGenericas\062GetHashCode_Equals_Exemplo\bin\Debug\net6.0\062GetHashCode_Equals_Exemplo.runtimeconfig.json
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\Generics_ColecoesGenericas\062GetHashCode_Equals_Exemplo\bin\Debug\net6.0\062GetHashCode_Equals_Exemplo.dll
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\Generics_ColecoesGenericas\062GetHashCode_Equals_Exemplo\bin\Debug\net6.0\062GetHashCode_Equals_Exemplo.pdb
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\Generics_ColecoesGenericas\062GetHashCode_Equals_Exemplo\obj\Debug\net6.0\062GetHashCode_Equals_Exemplo.csproj.AssemblyReference.cache
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\Generics_ColecoesGenericas\062GetHashCode_Equals_Exemplo\obj\Debug\net6.0\062GetHashCode_Equals_Exemplo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\Generics_ColecoesGenericas\062GetHashCode_Equals_Exemplo\obj\Debug\net6.0\062GetHashCode_Equals_Exemplo.AssemblyInfoInputs.cache
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\Generics_ColecoesGenericas\062GetHashCode_Equals_Exemplo\obj\Debug\net6.0\062GetHashCode_Equals_Exemplo.AssemblyInfo.cs
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\Generics_ColecoesGenericas\062GetHashCode_Equals_Exemplo\obj\Debug\net6.0\062GetHashCode_Equals_Exemplo.csproj.CoreCompileInputs.cache
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\Generics_ColecoesGenericas\062GetHashCode_Equals_Exemplo\obj\Debug\net6.0\062GetHashCode_Equals_Exemplo.dll
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\Generics_ColecoesGenericas\062GetHashCode_Equals_Exemplo\obj\Debug\net6.0\refint\062GetHashCode_Equals_Exemplo.dll
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\Generics_ColecoesGenericas\062GetHashCode_Equals_Exemplo\obj\Debug\net6.0\062GetHashCode_Equals_Exemplo.pdb
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\Generics_ColecoesGenericas\062GetHashCode_Equals_Exemplo\obj\Debug\net6.0\062GetHashCode_Equals_Exemplo.genruntimeconfig.cache
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\Generics_ColecoesGenericas\062GetHashCode_Equals_Exemplo\obj\Debug\net6.0\ref\062GetHashCode_Equals_Exemplo.dll

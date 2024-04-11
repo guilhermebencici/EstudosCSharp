@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02Generics", "02Generics\02
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "061GetHashCode_Equals", "061GetHashCode_Equals\061GetHashCode_Equals.csproj", "{567BE606-99CA-4E2E-A382-8E76A225B8DD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "062GetHashCode_Equals_Exemplo", "062GetHashCode_Equals_Exemplo\062GetHashCode_Equals_Exemplo.csproj", "{ED061632-8B40-4DE1-88CE-378AF579AE05}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{567BE606-99CA-4E2E-A382-8E76A225B8DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{567BE606-99CA-4E2E-A382-8E76A225B8DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{567BE606-99CA-4E2E-A382-8E76A225B8DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED061632-8B40-4DE1-88CE-378AF579AE05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED061632-8B40-4DE1-88CE-378AF579AE05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED061632-8B40-4DE1-88CE-378AF579AE05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED061632-8B40-4DE1-88CE-378AF579AE05}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
