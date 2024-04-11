@@ -27,13 +27,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "9Heranca_UpCasting_DownCast
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10Heranca_is_as", "10Heranca_is_as\10Heranca_is_as.csproj", "{F1BBCC57-421C-415B-88DC-30074954C935}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11Heranca_abstract", "11Heranca_abstract\11Heranca_abstract.csproj", "{EC17872E-6685-4322-88D5-6001EBBE6C1B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "11Heranca_abstract", "11Heranca_abstract\11Heranca_abstract.csproj", "{EC17872E-6685-4322-88D5-6001EBBE6C1B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12Interfaces", "12Interfaces\12Interfaces.csproj", "{661ADB19-E2FE-482E-A1E3-9C5899222E8F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "12Interfaces", "12Interfaces\12Interfaces.csproj", "{661ADB19-E2FE-482E-A1E3-9C5899222E8F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13Interfaces_Exercicio", "13Interfaces_Exercicio\13Interfaces_Exercicio.csproj", "{8893DF12-E61F-4560-A0BF-6B5992725DBA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "13Interfaces_Exercicio", "13Interfaces_Exercicio\13Interfaces_Exercicio.csproj", "{8893DF12-E61F-4560-A0BF-6B5992725DBA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16Agregacao", "16Agregacao\16Agregacao.csproj", "{7F7156C7-E3BD-4EB7-B985-23B03B328BEA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "16Agregacao", "16Agregacao\16Agregacao.csproj", "{7F7156C7-E3BD-4EB7-B985-23B03B328BEA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "17Acoplamento", "17Acoplamento\17Acoplamento.csproj", "{21D58F11-4436-42D7-8724-80B618BB30FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18Polimorfismo", "18Polimorfismo\18Polimorfismo.csproj", "{ACEF75B1-94AC-4AF0-87DD-F8E28A377C5A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -105,6 +109,14 @@ Global
 		{7F7156C7-E3BD-4EB7-B985-23B03B328BEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7F7156C7-E3BD-4EB7-B985-23B03B328BEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7F7156C7-E3BD-4EB7-B985-23B03B328BEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21D58F11-4436-42D7-8724-80B618BB30FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21D58F11-4436-42D7-8724-80B618BB30FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21D58F11-4436-42D7-8724-80B618BB30FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21D58F11-4436-42D7-8724-80B618BB30FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACEF75B1-94AC-4AF0-87DD-F8E28A377C5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACEF75B1-94AC-4AF0-87DD-F8E28A377C5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACEF75B1-94AC-4AF0-87DD-F8E28A377C5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACEF75B1-94AC-4AF0-87DD-F8E28A377C5A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
