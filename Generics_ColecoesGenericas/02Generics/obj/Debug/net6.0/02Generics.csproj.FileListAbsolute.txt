@@ -1,0 +1,15 @@
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\Generics_ColecoesGenericas\02Generics\bin\Debug\net6.0\02Generics.exe
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\Generics_ColecoesGenericas\02Generics\bin\Debug\net6.0\02Generics.deps.json
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\Generics_ColecoesGenericas\02Generics\bin\Debug\net6.0\02Generics.runtimeconfig.json
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\Generics_ColecoesGenericas\02Generics\bin\Debug\net6.0\02Generics.dll
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\Generics_ColecoesGenericas\02Generics\bin\Debug\net6.0\02Generics.pdb
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\Generics_ColecoesGenericas\02Generics\obj\Debug\net6.0\02Generics.csproj.AssemblyReference.cache
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\Generics_ColecoesGenericas\02Generics\obj\Debug\net6.0\02Generics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\Generics_ColecoesGenericas\02Generics\obj\Debug\net6.0\02Generics.AssemblyInfoInputs.cache
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\Generics_ColecoesGenericas\02Generics\obj\Debug\net6.0\02Generics.AssemblyInfo.cs
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\Generics_ColecoesGenericas\02Generics\obj\Debug\net6.0\02Generics.csproj.CoreCompileInputs.cache
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\Generics_ColecoesGenericas\02Generics\obj\Debug\net6.0\02Generics.dll
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\Generics_ColecoesGenericas\02Generics\obj\Debug\net6.0\refint\02Generics.dll
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\Generics_ColecoesGenericas\02Generics\obj\Debug\net6.0\02Generics.pdb
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\Generics_ColecoesGenericas\02Generics\obj\Debug\net6.0\02Generics.genruntimeconfig.cache
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\Generics_ColecoesGenericas\02Generics\obj\Debug\net6.0\ref\02Generics.dll
