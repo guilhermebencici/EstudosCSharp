@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09HashSet", "09HashSet\09Ha
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12SortedSet", "12SortedSet\12SortedSet.csproj", "{1DC6A1AD-2DF9-405A-B0DC-CCD80AAFD549}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13Stack", "13Stack\13Stack.csproj", "{03020216-8BEC-4BFC-B2D3-F2869FCA425B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{1DC6A1AD-2DF9-405A-B0DC-CCD80AAFD549}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1DC6A1AD-2DF9-405A-B0DC-CCD80AAFD549}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1DC6A1AD-2DF9-405A-B0DC-CCD80AAFD549}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03020216-8BEC-4BFC-B2D3-F2869FCA425B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03020216-8BEC-4BFC-B2D3-F2869FCA425B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03020216-8BEC-4BFC-B2D3-F2869FCA425B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03020216-8BEC-4BFC-B2D3-F2869FCA425B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
