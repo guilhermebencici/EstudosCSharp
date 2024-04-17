@@ -5,6 +5,10 @@ VisualStudioVersion = 17.3.32825.248
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegatesLambdaEventosLinq", "DelegatesLambdaEventosLinq\DelegatesLambdaEventosLinq.csproj", "{CAB8BB17-DF66-4F6E-8D9E-4F0423F99801}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02DelegateMulticast", "02DelegateMulticast\02DelegateMulticast.csproj", "{20BEA47B-02E0-42BD-A97C-2934FAC8A1A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03MetodosAnonimos", "03MetodosAnonimos\03MetodosAnonimos.csproj", "{6D82C9E8-6D80-4D54-900B-1D0016406A7D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{CAB8BB17-DF66-4F6E-8D9E-4F0423F99801}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CAB8BB17-DF66-4F6E-8D9E-4F0423F99801}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CAB8BB17-DF66-4F6E-8D9E-4F0423F99801}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20BEA47B-02E0-42BD-A97C-2934FAC8A1A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20BEA47B-02E0-42BD-A97C-2934FAC8A1A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20BEA47B-02E0-42BD-A97C-2934FAC8A1A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20BEA47B-02E0-42BD-A97C-2934FAC8A1A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D82C9E8-6D80-4D54-900B-1D0016406A7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D82C9E8-6D80-4D54-900B-1D0016406A7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D82C9E8-6D80-4D54-900B-1D0016406A7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D82C9E8-6D80-4D54-900B-1D0016406A7D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

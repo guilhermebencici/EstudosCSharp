@@ -1,0 +1,15 @@
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\01Delegates\03MetodosAnonimos\bin\Debug\net6.0\03MetodosAnonimos.exe
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\01Delegates\03MetodosAnonimos\bin\Debug\net6.0\03MetodosAnonimos.deps.json
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\01Delegates\03MetodosAnonimos\bin\Debug\net6.0\03MetodosAnonimos.runtimeconfig.json
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\01Delegates\03MetodosAnonimos\bin\Debug\net6.0\03MetodosAnonimos.dll
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\01Delegates\03MetodosAnonimos\bin\Debug\net6.0\03MetodosAnonimos.pdb
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\01Delegates\03MetodosAnonimos\obj\Debug\net6.0\03MetodosAnonimos.csproj.AssemblyReference.cache
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\01Delegates\03MetodosAnonimos\obj\Debug\net6.0\03MetodosAnonimos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\01Delegates\03MetodosAnonimos\obj\Debug\net6.0\03MetodosAnonimos.AssemblyInfoInputs.cache
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\01Delegates\03MetodosAnonimos\obj\Debug\net6.0\03MetodosAnonimos.AssemblyInfo.cs
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\01Delegates\03MetodosAnonimos\obj\Debug\net6.0\03MetodosAnonimos.csproj.CoreCompileInputs.cache
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\01Delegates\03MetodosAnonimos\obj\Debug\net6.0\03MetodosAnonimos.dll
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\01Delegates\03MetodosAnonimos\obj\Debug\net6.0\refint\03MetodosAnonimos.dll
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\01Delegates\03MetodosAnonimos\obj\Debug\net6.0\03MetodosAnonimos.pdb
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\01Delegates\03MetodosAnonimos\obj\Debug\net6.0\03MetodosAnonimos.genruntimeconfig.cache
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\01Delegates\03MetodosAnonimos\obj\Debug\net6.0\ref\03MetodosAnonimos.dll
