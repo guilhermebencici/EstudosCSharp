@@ -1,14 +1,18 @@
-﻿
-Imprimir imprimir = delegate (int valor)
-{
-    Console.WriteLine($"Método Anônimo : {valor}");
-};
+﻿List<string> nomes = new List<string>();
+nomes.Add("Maria");
+nomes.Add("Maria 2");
+nomes.Add("Maria 3");
+nomes.Add("Maria 4");
 
-imprimir(100);
-imprimir(200);
-imprimir(300);
+
+
+
+string resultado = nomes.Find(delegate (string nome)
+{
+    return nome.Equals("Maria");
+});
+
+
+Console.WriteLine(resultado);
 
 Console.ReadKey();
-
-// declarando o delegate
-public delegate void Imprimir(int valor);
