@@ -1,0 +1,15 @@
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\01Delegates\07DelegateAction\bin\Debug\net6.0\07DelegateAction.exe
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\01Delegates\07DelegateAction\bin\Debug\net6.0\07DelegateAction.deps.json
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\01Delegates\07DelegateAction\bin\Debug\net6.0\07DelegateAction.runtimeconfig.json
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\01Delegates\07DelegateAction\bin\Debug\net6.0\07DelegateAction.dll
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\01Delegates\07DelegateAction\bin\Debug\net6.0\07DelegateAction.pdb
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\01Delegates\07DelegateAction\obj\Debug\net6.0\07DelegateAction.csproj.AssemblyReference.cache
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\01Delegates\07DelegateAction\obj\Debug\net6.0\07DelegateAction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\01Delegates\07DelegateAction\obj\Debug\net6.0\07DelegateAction.AssemblyInfoInputs.cache
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\01Delegates\07DelegateAction\obj\Debug\net6.0\07DelegateAction.AssemblyInfo.cs
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\01Delegates\07DelegateAction\obj\Debug\net6.0\07DelegateAction.csproj.CoreCompileInputs.cache
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\01Delegates\07DelegateAction\obj\Debug\net6.0\07DelegateAction.dll
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\01Delegates\07DelegateAction\obj\Debug\net6.0\refint\07DelegateAction.dll
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\01Delegates\07DelegateAction\obj\Debug\net6.0\07DelegateAction.pdb
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\01Delegates\07DelegateAction\obj\Debug\net6.0\07DelegateAction.genruntimeconfig.cache
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\01Delegates\07DelegateAction\obj\Debug\net6.0\ref\07DelegateAction.dll

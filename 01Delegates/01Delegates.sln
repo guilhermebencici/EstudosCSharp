@@ -3,13 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32825.248
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegatesLambdaEventosLinq", "DelegatesLambdaEventosLinq\DelegatesLambdaEventosLinq.csproj", "{CAB8BB17-DF66-4F6E-8D9E-4F0423F99801}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DelegatesLambdaEventosLinq", "DelegatesLambdaEventosLinq\DelegatesLambdaEventosLinq.csproj", "{CAB8BB17-DF66-4F6E-8D9E-4F0423F99801}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02DelegateMulticast", "02DelegateMulticast\02DelegateMulticast.csproj", "{20BEA47B-02E0-42BD-A97C-2934FAC8A1A1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02DelegateMulticast", "02DelegateMulticast\02DelegateMulticast.csproj", "{20BEA47B-02E0-42BD-A97C-2934FAC8A1A1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03MetodosAnonimos", "03MetodosAnonimos\03MetodosAnonimos.csproj", "{6D82C9E8-6D80-4D54-900B-1D0016406A7D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03MetodosAnonimos", "03MetodosAnonimos\03MetodosAnonimos.csproj", "{6D82C9E8-6D80-4D54-900B-1D0016406A7D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04ExpressaoLambda", "04ExpressaoLambda\04ExpressaoLambda.csproj", "{D6EEA81A-3F5D-4130-84F1-1FD483ED93AF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04ExpressaoLambda", "04ExpressaoLambda\04ExpressaoLambda.csproj", "{D6EEA81A-3F5D-4130-84F1-1FD483ED93AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06DelegatePredicate", "06DelegatePredicate\06DelegatePredicate.csproj", "{51DF71B7-A078-40FC-BA25-7FBE274736A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07DelegateAction", "07DelegateAction\07DelegateAction.csproj", "{97022494-538D-46C0-9463-38E5D63B8601}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +37,14 @@ Global
 		{D6EEA81A-3F5D-4130-84F1-1FD483ED93AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D6EEA81A-3F5D-4130-84F1-1FD483ED93AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D6EEA81A-3F5D-4130-84F1-1FD483ED93AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51DF71B7-A078-40FC-BA25-7FBE274736A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51DF71B7-A078-40FC-BA25-7FBE274736A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51DF71B7-A078-40FC-BA25-7FBE274736A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51DF71B7-A078-40FC-BA25-7FBE274736A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97022494-538D-46C0-9463-38E5D63B8601}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97022494-538D-46C0-9463-38E5D63B8601}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97022494-538D-46C0-9463-38E5D63B8601}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97022494-538D-46C0-9463-38E5D63B8601}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
