@@ -24,7 +24,7 @@ class Pedido
         }
     }
 }
-
+// event handler
 class Email
 {
     public static void Enviar(object? sender, EventArgs e)
