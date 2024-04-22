@@ -1,0 +1,15 @@
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\01Delegates\14LINQAgrupamento\bin\Debug\net6.0\14LINQAgrupamento.exe
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\01Delegates\14LINQAgrupamento\bin\Debug\net6.0\14LINQAgrupamento.deps.json
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\01Delegates\14LINQAgrupamento\bin\Debug\net6.0\14LINQAgrupamento.runtimeconfig.json
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\01Delegates\14LINQAgrupamento\bin\Debug\net6.0\14LINQAgrupamento.dll
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\01Delegates\14LINQAgrupamento\bin\Debug\net6.0\14LINQAgrupamento.pdb
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\01Delegates\14LINQAgrupamento\obj\Debug\net6.0\14LINQAgrupamento.csproj.AssemblyReference.cache
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\01Delegates\14LINQAgrupamento\obj\Debug\net6.0\14LINQAgrupamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\01Delegates\14LINQAgrupamento\obj\Debug\net6.0\14LINQAgrupamento.AssemblyInfoInputs.cache
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\01Delegates\14LINQAgrupamento\obj\Debug\net6.0\14LINQAgrupamento.AssemblyInfo.cs
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\01Delegates\14LINQAgrupamento\obj\Debug\net6.0\14LINQAgrupamento.csproj.CoreCompileInputs.cache
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\01Delegates\14LINQAgrupamento\obj\Debug\net6.0\14LINQAgrupamento.dll
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\01Delegates\14LINQAgrupamento\obj\Debug\net6.0\refint\14LINQAgrupamento.dll
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\01Delegates\14LINQAgrupamento\obj\Debug\net6.0\14LINQAgrupamento.pdb
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\01Delegates\14LINQAgrupamento\obj\Debug\net6.0\14LINQAgrupamento.genruntimeconfig.cache
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\01Delegates\14LINQAgrupamento\obj\Debug\net6.0\ref\14LINQAgrupamento.dll
