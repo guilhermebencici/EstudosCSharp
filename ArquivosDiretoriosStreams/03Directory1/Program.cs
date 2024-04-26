@@ -8,7 +8,7 @@ try
 {   //sempre validar se o tal diretório existe!
     if (Directory.Exists(caminhoDiretorio))
     {
-        string[] arquivos = Directory.GetFiles(caminhoDiretorio);
+        string[] arquivos = Directory.GetFiles(caminhoDiretorio,"p*");// critério definido pra trazer só arquivos com inicio na letra P
 
         foreach (var arquivo in arquivos)
         {
