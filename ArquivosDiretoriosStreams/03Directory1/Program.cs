@@ -2,18 +2,21 @@
 var caminhoDiretorio = @"d:\dados\MeuDiretorio";
 string caminhoDestino = @"d:\dados\MeuDiretorioNovo";
 
-Console.WriteLine("\nExcluindo um diretório");
+Console.WriteLine("\nObtendo os ubdiretórios de um diretório");
 
 try
 {   //sempre validar se o tal diretório existe!
     if (Directory.Exists(caminhoDiretorio))
     {
-        Directory.Delete(caminhoDiretorio);
-        Console.WriteLine($"Diretório {caminhoDiretorio} excluido com sucesso!");
+        string[] subdiretorios = Directory.GetDirectories(caminhoDiretorio);
+        foreach(var subdiretorio in subdiretorios)
+        {
+            Console.WriteLine(subdiretorio);
+        }
     }
     else
     {
-        Console.WriteLine($"O diretório  {caminhoDiretorio} não existe!");
+        Console.WriteLine($"O diretório {caminhoDiretorio} não existe!");
     }
 }
 catch (Exception ex)
