@@ -1,23 +1,18 @@
-﻿// meu diretório
-var caminhoDiretorio = @"d:\dados\";
+﻿var caminhoDiretorio = @"d:\dados\MeuDiretorio";
+string caminhoDestino = @"d:\dados\MeuDiretorioNovo";
 
-
-Console.WriteLine("\nObtendo todos os arquivos em um diretório");
+Console.WriteLine("\nRenomeando(Mover) um diretório");
 
 try
-{   //sempre validar se o tal diretório existe!
+{
     if (Directory.Exists(caminhoDiretorio))
     {
-        string[] arquivos = Directory.GetFiles(caminhoDiretorio,"p*");// critério definido pra trazer só arquivos com inicio na letra P
-
-        foreach (var arquivo in arquivos)
-        {
-            Console.WriteLine(arquivo);
-        }
+        Directory.Move(caminhoDiretorio, caminhoDestino);
+        Console.WriteLine("Diretório renomeado com sucesso!");
     }
     else
     {
-        Console.WriteLine($"O diretório {caminhoDiretorio} não existe!");
+        Console.WriteLine($"O diretório  {caminhoDiretorio} não existe!");
     }
 }
 catch (Exception ex)
