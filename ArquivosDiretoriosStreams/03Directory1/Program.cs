@@ -2,18 +2,18 @@
 var caminhoDiretorio = @"d:\dados\MeuDiretorio";
 string caminhoDestino = @"d:\dados\MeuDiretorioNovo";
 
-Console.WriteLine("\nCriando um novo diretório");
+Console.WriteLine("\nExcluindo um diretório");
 
 try
 {   //sempre validar se o tal diretório existe!
     if (Directory.Exists(caminhoDiretorio))
     {
-        Directory.CreateDirectory(caminhoDiretorio);
-        Console.WriteLine($"Diretório {caminhoDiretorio} criado com sucesso!");
+        Directory.Delete(caminhoDiretorio);
+        Console.WriteLine($"Diretório {caminhoDiretorio} excluido com sucesso!");
     }
     else
     {
-        Console.WriteLine($"O diretório  {caminhoDiretorio} já existe!");
+        Console.WriteLine($"O diretório  {caminhoDiretorio} não existe!");
     }
 }
 catch (Exception ex)
