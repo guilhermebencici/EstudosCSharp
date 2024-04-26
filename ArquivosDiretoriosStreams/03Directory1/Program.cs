@@ -1,17 +1,18 @@
 ﻿// meu diretório
-var caminhoDiretorio = @"d:\";
+var caminhoDiretorio = @"d:\dados\";
 
 
-Console.WriteLine("\nObtendo os ubdiretórios de um diretório");
+Console.WriteLine("\nObtendo todos os arquivos em um diretório");
 
 try
 {   //sempre validar se o tal diretório existe!
     if (Directory.Exists(caminhoDiretorio))
     {
-        string[] subdiretorios = Directory.GetDirectories(caminhoDiretorio, "p*"); // GetDirectories(caminhoDiretorio,"p*") definindo critério de busca (Vai me mostrar os diretórios que iniciam com a letra P)
-        foreach (var subdiretorio in subdiretorios)
+        string[] arquivos = Directory.GetFiles(caminhoDiretorio);
+
+        foreach (var arquivo in arquivos)
         {
-            Console.WriteLine(subdiretorio);
+            Console.WriteLine(arquivo);
         }
     }
     else
