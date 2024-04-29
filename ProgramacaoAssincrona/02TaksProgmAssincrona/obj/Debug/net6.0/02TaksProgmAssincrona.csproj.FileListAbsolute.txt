@@ -1,0 +1,15 @@
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\ProgramacaoAssincrona\02TaksProgmAssincrona\bin\Debug\net6.0\02TaksProgmAssincrona.exe
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\ProgramacaoAssincrona\02TaksProgmAssincrona\bin\Debug\net6.0\02TaksProgmAssincrona.deps.json
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\ProgramacaoAssincrona\02TaksProgmAssincrona\bin\Debug\net6.0\02TaksProgmAssincrona.runtimeconfig.json
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\ProgramacaoAssincrona\02TaksProgmAssincrona\bin\Debug\net6.0\02TaksProgmAssincrona.dll
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\ProgramacaoAssincrona\02TaksProgmAssincrona\bin\Debug\net6.0\02TaksProgmAssincrona.pdb
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\ProgramacaoAssincrona\02TaksProgmAssincrona\obj\Debug\net6.0\02TaksProgmAssincrona.csproj.AssemblyReference.cache
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\ProgramacaoAssincrona\02TaksProgmAssincrona\obj\Debug\net6.0\02TaksProgmAssincrona.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\ProgramacaoAssincrona\02TaksProgmAssincrona\obj\Debug\net6.0\02TaksProgmAssincrona.AssemblyInfoInputs.cache
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\ProgramacaoAssincrona\02TaksProgmAssincrona\obj\Debug\net6.0\02TaksProgmAssincrona.AssemblyInfo.cs
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\ProgramacaoAssincrona\02TaksProgmAssincrona\obj\Debug\net6.0\02TaksProgmAssincrona.csproj.CoreCompileInputs.cache
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\ProgramacaoAssincrona\02TaksProgmAssincrona\obj\Debug\net6.0\02TaksProgmAssincrona.dll
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\ProgramacaoAssincrona\02TaksProgmAssincrona\obj\Debug\net6.0\refint\02TaksProgmAssincrona.dll
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\ProgramacaoAssincrona\02TaksProgmAssincrona\obj\Debug\net6.0\02TaksProgmAssincrona.pdb
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\ProgramacaoAssincrona\02TaksProgmAssincrona\obj\Debug\net6.0\02TaksProgmAssincrona.genruntimeconfig.cache
+C:\Users\guilherme.a.souza\Desktop\Anima_UDEMY\EstudosCSharp\ProgramacaoAssincrona\02TaksProgmAssincrona\obj\Debug\net6.0\ref\02TaksProgmAssincrona.dll
