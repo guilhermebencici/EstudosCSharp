@@ -1,0 +1,1541 @@
+Debug: Inicio F5 | Continuar F11
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> FUNDAMENTOS <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+=========== PLATAFORMA .NET ===========
+
+.NET é uma plataforma de código aberto e pode utilizar de várias linguagens, editores e bibliotecas.
+	Exemplo: 
+		- criação de de aplicações usando C#, F# e VB.
+		
+		
+=========== LINGUAGEM C# ===========
+
+Linguagem orientada a Objetdos, moderna e flexível. Usada par criar programas atráves da escrita de um código fonte em 
+linguagem de alto nível (mais próxima do entendimento humano).
+
+C# é uma linguagem tipada, compilada e gerenciada.
+
+
+=========== ORGANIZANDO CÓDIGO ===========
+
+Podemos organiza-lo através de namespaces.
+
+** Namespaces são contâiners para as classes e outros namespaces, utilizamos para agrupar classes relacionadas.
+
+Ex -> Projeto
+	namespaces: Fornecedores (e suas classes)
+	namespaces: Produtos (e suas classes)
+	namespaces: Categorias (e suas classes)
+	
+	
+=========== TRATANDO COM DATA E HORA - DATETIME - ===========
+
+Struct DateTime -> Representa um momento no tempo expresso como uma data e hora.
+
+* Uma variável do tipo DateTime é um tipo de valor e possui um valor padrão.
+	-> O valor padráo de um DateTime é: 01/01/0001 00:00:00
+	
+* Obtendo uma data e hora
+	-> DateTime dataAtual = DateTime.Now;
+	Console.WriteLine(dataAtual);
+	
+* Criando uma data e hora especifica
+	-> DataTime data = new	 DateTime(2024,06,01)
+	Console.WriteLine(data);
+
+
+
+=========== NULLABLE TYPES ( TIPOS ANULÁVEIS ) ===========
+
+-> Um Nullable Type, é um tipo de valor que PODE receber um valor null. Portanto, os Tipos Anuláveis, permitem um valor null a um 'tipo de valor'
+
+Ex: Nullable<T> <nomeQualquer> = null; ( T = int, double, float, bool, etc)
+
+** Nullable Types são diferentes dos tipos por valor. Ou seja, o Nullable Type "int?" é diferente do tipo "int"
+	Onde "int" é um tipo não anulável (Non-Nullable Type) e "int?" é um Nullable Type.
+	
+==> Podemos usar o operador '??' para atribuir um tipo anulável a um tipo não anulável.
+
+Ex: int? a = null;
+	int b = a ?? 0;
+	Console.WriteLine(b);
+	
+	
+=========== HASVALUE E VALUE ( Propriedades somente leitura ) ===========
+
+-> Usadas para examinar e obter um valor de uma variável de Nullable Type.
+
+=> HasValue: true, se tiver um valor false, senão tiver um valor (null).
+=> Value: Exibe o valor atribuído.
+
+
+=========== NOMENCLATURA - CONVENÇÕES - ===========
+
+==> IDENTIFICADORES <==
+
+-> É o nome que atribuimos a um tipo (classe, interface, struct, record, delegate ou enum), membro, propriedade, variável ou namespace.
+
+* Devemos utilizar nomes significativos que permitam inferir o propósito do identificador
+	Ex: valorTotal, valorParcial, nomeProduto
+	
+* Não criar identificadores usando o mesmo nome, mesmo que altere o uso de maiúsculas e minúsculas.
+
+==> CONVENÇÕES <==
+
+-> CAMEL CASE (Usado hein: variáveis, parâmetros e campos internos privados)
+	
+	* A primeira letra da primeira palavra é iniciada com minúscula. A letra de cada palavra seguinte deve ser inciada como maiúscula.
+	Ex: valorDesconto, nomeCompleto
+	
+
+-> PASCAL CASE (Usado hein: classes, métodos, interfaces, propriedades)
+
+	* A primeira letra de cada palavra é iniciada com maiúscula.
+	Ex: CalculaDesconto, CalculaFrete.
+	
+	
+-> CONSTANTES
+
+	* Usamos letras maiúsculas.
+	Ex: PI, DESCONTO, VALOR, IMPOSTO
+	
+-> SUBLINHADO (_) 
+
+	* Usado para campos internos privados e somente leitura (Camel Case)
+	Ex: _valorTotal, calculaImposto
+	
+	
+==> FORMATAÇÃO <==
+
+-> Concatenação (Usando o operador + )
+
+	* Processo de acrescentar uma cadeia de caracteres ao finao de outra cadeia de caracteres. 
+	Ex: Console.WriteLine(nome + " tem "+ idade + " anos");
+	
+-> Interpolação ( $$ -> interpola;áo {} )
+
+	* Usa objetos e expressões para realizar uma "interpolação de strings".
+	Ex: Console.WriteLine($"{nome} tem  {idade} anos");
+	
+-> Place Holders 
+
+	* Realiza a concatenação de expressões usando objetods. Para isso, usa-se {} e uma numeração iniciada em 0 para indicar a ordem de substituição
+	das variáveis que devem ser informadas na ordem a serem exibidas.
+	Ex: Console.WriteLine($"{0} tem  {1} anos", idade, nome);
+	
+	
+-> Sequências de Escape
+	* São combinações de caracteres consistindo de uma barra invertida (\), seguida por uma letra ou uma combinação de dígitos.
+	Ex: // o compilador não aceita a \ dentro de uma string. Para funcionar, é preciso utilizar o Sequencias Escape
+		// neste caso, acrescentando mais uma barra.
+
+		// forma errada:
+		string local = "c:\dados\poesias.txt";
+
+		//forma correta:
+		string local2 = "c:\\dados\\poesias.txt";
+		
+		
+=========== CONVERSÃO ENTRE OS TIPOS ===========
+
+-> C# é estaticamente tipada em tempo de compilação. Ou seja, após uma variável ser declarada, ela não poderá ser declarada novamente e não poderá
+armazenar valores de outro tipo de dados, a menos que, este tipo de dados sejja convertível para o tipo de dados da variável ( CONVERSÃO DE TIPOS ).
+
+--> Conversão Implícita
+
+	* O compilador C# converte automaticamente um tipo de dados em outro tipo (se a conversão entre os tipos forem compatíveis)
+	
+--> Conversão Expliícita
+
+	* Precisa ser feita manualmente, de forma explícita.
+	
+
+==> CONVERSÃO PARA STRING ( - ToString() -) <==
+
+-> O método ToString() da classe Object retorna uma string que representa o objeto atual.
+
+
+
+=========== ENTRADA DE DADOS: MÉDOTOD DA CLASSE CONSOLE ===========
+
+==>ReadLine()
+
+	-> Lê uma única linha de entrada do fluxo de entrada padrão.
+	-> Retorna a mesma string.
+	
+==>Read()
+
+	-> Lê apenas um único caractere do fluxo de entrada padrão.
+	-> Retorna o valor ASCII do caractere.
+	
+==>ReadKey()
+
+	-> Lê apenas um único caractere do fluxo de entrada padrão.
+	-> Obtém a próxima tecla pressionada pleo usuário.
+	-> Retorna um tipo ConsoleKeyInfo.
+	-> É usada para segurar a tela até que o usuário pressione uma tecla.
+	
+	
+
+==> CONSTANTES <==
+
+	-> São valores imutáveis que são conhecidos em tempo de compilação e não mudam durante a vida útil do programa.
+	-> As constantes são declaradas usando modificador "const" e devem ser inicializadas na sua declaração.
+	
+	
+==> OPERADORES - INCREMENTAIS E DECREMENTAIS - <==
+
+	-> Tem como objetivo Aumentar ou Diminuir exatamente em uma unidade o valor de uma variável.
+	-> Incremento: ++
+	-> Decremento: --
+	
+	
+==> OPERADORES RELACIONAIS <==
+
+	-> A característica dos operadores relacionais é que o resultado de uma operação relacional terá como resultado "true" ou "false".
+	-> Esses operadores são suportados por todos os tipos numéricos integrais e de ponto flutuante.
+
+==> Método Equals() 
+	
+	-> É usado para determinar se duas strings possuem o mesmo valou ou não.
+	
+	
+==> OPERADORES LÓGICOS <==
+
+	-> São usados em exprssões lógicas e trabalham com operandos booleanos e seu resultado será "True" ou "False".
+	
+==> TABELA VERDADE 
+
+	(&&) -> Se qualquer condição se tornar falsa, o operador lógico " && ou AND " retornará FALSE!
+	(||) -> Se qualquer condição se tornar verdadeira, o operador lógico " || ou OR " retornará VERDADEIRO!
+	(!) -> O operador lógico " ! ou NOT " sempre retornára o INVERSO do valor do operando da condição
+	
+
+==> PRECEDÊNCIA E ASSOCIATIVIDADE <==
+
+	-> A precedência do operador é um conjunto de regas que define como uma expressão é avaliada.
+	-> No C#, cada operador tem uma PRIORIDADE atribuída, e, com base nessa priorirdade, a expressão é avaliada.
+	
+	** As expressões com operadores de maior precedência são avaliadas primeiro **
+	** Quando dois operadores tiverem a MESMA precedência, eles serão avaliados com base na ASSOCIATIVIDADE do operador,
+		que pode ser da direita para esquerda ou da esquerda para a direita. **
+		
+	OBS: Os operadores [] e (), possuem a maior ordem de precedência (nesta ordem). Podem ser usados para alterar a ordem de precedência.
+	
+
+
+==> TIPOSDE VALOR E TIPOS DE REFERÊNCIA <==
+
+	-> As variáveis de um tipo de VALOR (tipos numéricos, char, bool, struct) sempre terão um valor e são armazenadas na memória STACK.
+	-> As variáveis de um tipo de REFERÊNCIA (object, string, class), contém uma referência ao local onde o valor pode estar armazenado e são armazenadas na memória HEAP.
+	
+
+==> NULLABLE REFERENCE TYPES - ALERTA ATIVADO -
+
+	-> São um recurso de tempo de compilação.
+	-> Este recurso nos alerta sobre a possibilidade de ocorrer um erro envolvendo a manipulação de uma referência nula.
+	-> A finalidade dos tipos de *referência anuláveis*, é minimzar a chance de seu aplicativo lançar um "System.NullReferenceException" quando executado
+	
+	
+	** O alerta é ativado quando o elemento <Nullable> é definido como enable no arquivo de projeto **
+					<Project Sdk="Microsoft.NET.Sdk">
+
+			  <PropertyGroup>
+				<OutputType>Exe</OutputType>
+				<TargetFramework>net6.0</TargetFramework>
+				<ImplicitUsings>enable</ImplicitUsings>
+************	<Nullable>enable</Nullable>  ************
+			  </PropertyGroup>
+
+			</Project>
+
+OBS: Para evitar o alerta, pode-se usar o tipo Nullable(?) ao atribuir o valor null e empregar o Null Conditional Operador (?) ao acessar a referência.
+	
+	ex:
+		string? nome = null;
+		Console.WriteLine(nome?.ToUpper());
+		
+
+==> OPERADORES UNIÁRIOS, BINÁRIOS E OPERADOR CONDICIONAL TERNÁRIO <==
+
+	-> UNIÁRIOS: atuam em um operando em uma expressão.
+	-> BINÁRIOS: atuam em dois operandos em uma expressão.
+	-> TERNÁRIO: utiliza 3 argumentos e avalia uma expressão booleana.
+	
+==> TERNÁRIO( ?: )
+
+	-> Avalia uma expressão booleaa e retorna o resultado de uma das duas expressões, dependendo se a expressão booleana é avaliada como true ou false.
+	-> Utilizado para validar uma condição
+	
+		Ex:
+			condição ? expressão1_se_true : expressão2_se_false
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> ESTRUTURAS DE CONTROLE <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+=========== INSTRUÇÃO IF ===========
+
+	-> Seleciona um bloco ou uma instrução para execução com base no valor de uma "expressão booleana".
+	-> Usamos para especificar um bloco de código que deverá ser executado, se uma condição for verdadeira.
+	
+
+=========== INSTRUÇÃO IF-ELSE ===========
+
+	-> É composta por dois blocos de instruções: o bloco de instruções "if" e o bloco de instruções "else".
+
+
+=========== INSTRUÇÃO IF-ELSE-IF ===========
+
+	-> Utilizada após a instrução "if" par avaliar MAIS DE UMA CONDIÇÃO.
+	-> As instruções "else if" somente serão executadas se a condição "if" for FALSA.
+	-> A instrução "if", pode ter várias cláusulas "else if", onde cada cláusula tem sua condição.
+	
+	
+	
+=========== INSTRUÇÃO SWITCH ===========
+
+	-> Switch-case, é uma strutura de condição que define o código a ser executado com base em uma COMPARAÇÃO DE VALORES.
+	-> Switch-case não avalia uma expressão Booleana (retorno de true or false) e sim o valor da VÁRIAVEL OU EXPRESSÃO da instrução Switch.
+	
+	
+=========== INSTRUÇÃO WHILE ===========
+
+	-> Executa uma instrução ou um bloco de instruções, enquanto uma expressão booleana especificada for avaliada como TRUE.
+	-> Como a expressão é avaliada antes de cada execução do loop, um loop while pode executar zero ou mais vezes.
+	
+	
+
+=========== INSTRUÇÃO DO-WHILE ===========
+
+	-> O loop DO-WHILE executa  o bloco de código pelo menos uma vez antes de avaliar a condição, e a seguir repete o loop enquanto a condição for true.
+	-> A execuçãoo será interrompida quando a condição booleana for avaliada como FALSE.
+	-> Para sair do loop infinit é necessário definir a condição de saída e usar a instrução BREAK para interroper o loop.
+	
+	
+	
+=========== INSTRUÇÃO LOOP FOR ===========
+
+	********** QUANDO NUMERO DE REPETIÇÕES FOR CONHECIDO ******************
+	-> Executa um bloco de instruções repetidamente até que a condição especificada retorne false.
+	
+SINTAXE:
+	for (inicialização; condiçcão; iteração)
+	{
+		// INSTRUÇÕES
+	}
+	
+	* INICIALIZAÇÃO ==> É usado para delcarar e inicializar uma VARIÁVEL DE CONTROLE, que será loca e não poderá ser acessada de fora do loop.
+		É executada primeiro e apenas uma vez!
+	
+	* CONDIÇÃO ==> É uma expressão booleana que retorna TRUE ou FALSE. Se a expressão for avaliada como TRUE, ela executará o loop novamente,
+		caso contrário, o loop é encerrado.
+		
+	* ITERAÇÃO ==> É  usado para incrementar ou decrementar a variável de controle do loop.
+	
+	
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> CLASSES E MÉTODOS <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+=========== CLASSE E OBJETO ===========
+
+==> CLASSE:
+	
+	-> Pode ser entendida como um modelo ou um template, que contém valores conhecidos como membros de dados e conjuntos de regras,
+		conhecidos como comportamentos ou métodos.
+	-> É um tipo estruturado que contém membros:
+	
+	* Atributos (dados: propriedades, campos)
+	* Comportamentos (métodos)
+	
+EX:
+
+Classe Pessoa
+	Atributos -> Nome, idade, sexo
+	Comportamentos -> Comer, caminhar, trabalhar
+	
+
+SINTAXE C#:
+	
+	Class Pessoa
+	{
+		public string nome;
+		public int idade;
+		public string sexo;
+		
+		public void Comer();
+		public void Andar ();
+		
+	}
+	
+	Por tanto:
+		-> Pessoa agora representa um TIPO, que contém "atributo" e "comportamentos"
+		-> A classe Pessoa, agora pode criar OBJETOS do tipo Pessoa
+		-> Os objetos criados a partir de uma classe necessitam do "NEW"
+		
+		
+
+=========== ALOCAÇÃO DE MEMÓRIA ===========
+
+	==> STACK -> Porção de memória pequena onde os value-types e os ponteiros ficam.
+	
+		** Value-Type: são tipos leves (como os tipos primitivos e structs) que ficam armazenados diretamente na memória stack. 
+		Os valores das variáveis ficam armazenados juntamente com as próprias variáveis, sendo o acesso ao seu conteúdo feito de maneira 
+		direta;
+	
+	==> HEAP -> Porção maior de memória onde os reference-types ficam de fato alocados… Para se fazer o acesso a eles, 
+		precisamos de um ponteiro na stack que indique a posição de memória na heap onde o objeto está de fato alocado.
+	
+		**Reference-Type: tipos pesados (objetos criados a partir de classes, etc.) que ficam armazenados na heap. 
+		Para não sacrificar a performance, é criada uma referência (ponteiro) na stack que aponta para qual posição de memória 
+		o objeto está armazenado na heap. O acesso é feito via essa referência na stack. Sendo assim, o acesso ao conteúdo é indireto,
+		dependendo dessa referência
+		
+		
+		
+=========== OBJETO ===========
+
+	-> É a instância de uma classe, criado pelo operador new.
+	-> Todos os membros da classe podem ser acessados através do objeto.
+	-> Possuem características próprias, definidas pelos atributos e podem ser categorizados, agrupados, enquanto que uma classe descreve
+		todos os objetos de um tipo particular.
+
+
+=========== MÉTODOS ===========
+
+	-> Representam os comportamentos das classes e são usados para executar ações, e realizar a comunicação entre os objetos das classes.
+	-> É um bloco de código que contém uma série de instruções que são executadas quando ele for chamado.
+	
+SINTAXE:
+	Tipo de Retorno => Determina o tipo do valor que o método retorna (se o método não retornar nenhum valor o tipo usado é void)
+	
+	Nome => Define o nome do método (usamos PascalCase)
+	
+	Lista de Parâmetros => Indica o tipo de dados e o valor das váriaveis/objetos que o método pode receber.
+	
+	Corpo do Método => Consiste das instruções definidas entre chaves, no corpo do método.
+	
+	
+	
+=========== MÉTODOS  COM PARÂMETROS ===========
+
+	-> Um parâmetro é um valor passado para o método.
+	-> Os métodos podem receber um ou mais parâmetros que são especificados dentro dos parênteses, após a definição do nome do método (são serados por vírgulas)
+	
+	
+	
+
+=========== CONSTRUTOR ===========
+
+	-> São tipos especiais de métodos, usados para criar e inicializar objetos de uma classe.
+	-> Sempre que uma classe for instanciada, usando a palavra new, o seu construtor é chamado.
+	-> Quando não criamos um construtor na classe, um construtor SEM PARÂMETROS é criado automaticamente, sendo ele, usado, para criar uma instância da Classe
+		(o objeto). Além de definir os valores padrão para os membros da classe.
+		
+	** SINTAXE **
+	
+		-> Um construtor deve possuir o mesmo nome da classe.
+		-> Não possuir nenhum tipo de retorno (nem mesmo  VOID).
+		-> Pode possuir parâmetrosque são usados para inicializar os membros da classe.
+		
+		
+=========== PALAVRA-CHAVE - THIS - ===========
+
+	-> Refere-se a instância atual da classe!
+	-> É usada como um modificador do "primeiro parâmetro" de um método de extensão.
+	-> Representa o objeto que esta em execução, e assim, usando THIS, de forma implícita, chamamos o objeto que está sendo usado.
+	-> É usada par diferenciar entre os parâmetros dos métodos e os campos quand eles tiverem o mesmo nome.
+	
+	
+
+=========== MÉTODOS COM RETORNO ===========
+
+	-> Se o tipo de retorno (tipo listado antes do nome do método) não for "VOID", o método poderá retornar um valor usando a instrução "RETURN".
+	-> Uma instrução return, seguida por um valor que corresponda ao tipo de retorno, retornará esse valor ao chamador do método.
+	
+
+=========== SOBRECARGA DE MÉTODOS ===========
+
+	==> ASSINATURA <==
+	
+	-> A assinatura do método é uma IDENTIFICAÇÃO EXCLUSIVA.
+	-> O tipo de retorno do método, NÃO FAZ PARTE da assinatura.
+	-> Não é possível ter dois métodos com a mesma assinatura.
+		
+		Formada por:
+		
+			- Nome do Método
+			- O Número de parâmetros
+			- O Tipo dos parâmetros
+			- A ordem dos parâmetros
+			
+	Como identificar:
+		
+		-> Método com mesmo nome, mas quantidade de parâmetros diferentes.
+		-> Métodos com o mesmo nome, mas "tipos" diferentes de parâmetro.
+		-> Métodos com o mesmo nome, mesma quantidade de parâmetros, mas com a ordem de parâmetros invertido.
+		
+		
+		
+=========== ARGUMENTOS - VALOR E REFERÊNCIA ===========
+
+	1) Passagem de argumento por valor (padrão)
+		
+		-> Uma cópia do valor do argumento é feita e passada para o parâmetro do método chamado.
+		-> As alterações na cópia não afetam o valor da variável original no chamador.
+		
+	2) Passagem de argumento por referência ( ref e out )
+		
+		-> Passa a referência ao mesmo local de memória dos argumentos par os parâmetros (nenhuma cópia é passada)
+		-> O chamador da ao método, a capacidade de acessar e modificar a variável original do chamador (passa o acesso a variável para o método)
+		
+		
+		==>> out <==
+			-> A principal diferençã entre "out" e "ref", é que "out" transfere dados para fora do métdo e não para dentro dele.
+			-> Variáveis passadas como argumentos out não precisam ser inicializadas antes de serem passadas em uma chamada de método.
+			-> O método chamado DEVE atribuir um valor ao parâmetro definido com a palavra-chave "out", antes que o método seja retornado.
+			
+			
+=========== ARGUMENTOS E PARÂMETROS ===========
+
+	=> Parâmetros:
+		
+		-> Representa um valor que o método espera receber quando for chamado. A declração do método define os seus parâmetros.
+		
+	=> Argumentos:
+	
+		-> Representa o valor passado para um parâmetro de método, sempre que o chamamos.
+		
+	EX:
+	
+		public int Somar(int n1, int n2) ** parâmetros **
+		{}
+		
+	CHAMANDO O MÉTODO:
+	
+		var  valor = calc.Somar(10,10) ** argumentos **
+
+ 
+ ==> ARGUMENTOS NOMEADOS <==
+ 
+	-> Permitem que seja especificado um argumento para um parâmetro, correspondendo o argumento com seu nome (ao invés da sua posição)
+	-> Tira a necessidade de combinar a ordem dos argumentos com a ordem dos parâmetros ao chamarmoso método.
+	-> O argumento para cada parâmetro pode ser especificado pelo nome do parâmetro.
+	
+	
+ ==> PARÂMETROS OPCIONAIS <==
+ 
+	-> Permitem definir parâmetros em uma assinatura de método que o chamador do método pode omitir.
+	-> Cada parâmetro opcional deve ter um valor padrão, como parte da sua definição (Se nenhum argumento for enviado para esse parâmetro, o valor padrão será usado!)
+	-> Os parâmetros opcionais são definidos no final da lista de parâmetros, sempre após todos os parâmetros obrigatórios.
+	
+	
+=========== MÉTODOS ESTÁTICOS ( - STATIC - ) ===========
+
+	-> É definido usando o modificador "static" na declaração do método.
+	-> Pode serusado em: Classes, Interfaces, Strutcts, Campos, Métodos, Propriedades, Operadores, Eventos e Construtores.
+	
+	-> São métodos que não dependetem de um objeto, ou seja, não dependem da criação de uma instância da clsse para serem acessados.
+	-> Pertencem a CLASSE e não ao Objeto.
+	-> Por não ter ligação com o objeto, os métodos estáticos não podem usar variáveis da instância - pois são variáveis do objeto-.
+	
+	
+=========== CAMPOS ESTÁTICOS ( - STATIC - ) ===========
+
+	-> É definidousando o modificador "static" na declarção do membro.
+	-> Não pertence ao objeto, mas sim a classe.
+	-> Um campo (field) estático é compartilhado com todas as instâncias da classe e todas as instâncias acessam o mesmo local de memória.
+	
+
+=========== CONSTRUTOR ESTÁTICOS ( - STATIC - ) ===========
+
+	-> É usado para inicializar quaisquer membros estáticos  ou para executar uma ação específica que precisa ser executada apenas uma vez.
+	-> Ele é chamado automaticamente, antes que a primeira instância seja criada, ou que quaisquer membros estáticos sejam referenciados.
+	
+	==> PROPRIEDADES <==
+	
+		-> Um construtor estático não usa modificadores de acesso, nem tem parâmetros.
+		-> Uma "classe" ou "struct", só pode ter um único construtor estático.
+		-> Um construtor estático não pode ser diretamente.
+		-> O usuário não tem controle sobre quando o construtor estático é executado no progrma.
+		-> Se o construtor estático não for fornecido para inicializar campos estáticos, todos os campos estáticos serão inicilizados com seu valor padrão.
+		-> Se o construtor estático gerar uma exceção, o runtime não o invocará uma segunda vez, e o membro estátio permanecerá não inicializado.
+		
+	==> SINTAXE <==
+		
+		-> Para criar um construtor estático, basta criar um Construtor sem parâmetros, usando a palavra-chave static
+			
+			Ex: 
+				class MinhaClasse
+				{	
+					// construtor estático
+					static MinhaClasse()
+					{
+						// código
+					}
+				}
+				
+				
+				
+=========== PROPRIEDADES ===========
+
+	-> É um membro da classe que fornece um mecanismo para ler, gravar ou calcular o valor de um campo privado.
+	-> Permitem que uma classe exponha umamaneira pública de obter e definir valores, enquanto oculta o código de implementação ou verificação.
+	-> Podem ser usadas como se fossem membros de dados públicos, mas possuem métodos especiais chamados "acessadores".
+	-> Esse recurso, permite que os dados sejam acessados com facilidade e ainda ajuda a promover a segurança e a flexibilidade dos métodos.
+	
+	
+=========== STRUCTS ===========
+
+	-> É um tipo de dado definido pelo usuário, que é composta por outros tipos de dados e funcionalidades relacionadas (semelhante a ma classe)
+	-> Uma struct pode conter campos, métodos, constantes, construtores, propriedades, indexadores, operadores e mesmo outros tipos de estruturas.
+	-> A principal diferença entre classe e structs:
+		
+		 **Structs são TIPOS DE VALOR e não de referência. **
+		 
+	==> SINTAXE <==
+	
+		struct Pessoa
+		{
+			public string Nome;
+			public int Idade {get; set;}
+			
+			public void Exibir
+			{
+				Console.WriteLine("Struct");
+			}
+		}
+		
+	OBS:
+		=> Usamos quando o tipo for pequeno e de curta duração.
+		
+		
+=========== ENUM ===========
+
+	-> É um tipo de dados especial definido pelo usuário.
+	-> É considerado uma "classe especial", que é definida por um conjunto de constantes, nomeadas do tipo numérico.
+	-> Uma enumeração é definida usando a plavra-chave enum, diretamente dentro de um namespace, classe ou struct, e todos os nomes das constantes podem ser declarados e separados por uma virgula.
+	
+	==> SINTAXE <==
+	
+		enum DiasDaSemana
+		{
+			Segunda, // 0
+			Terça, // 1
+			Quarta, // 2
+			Quinta, // 3
+			Sexta, // 4
+			Sábado, // 5
+			Domingo // 6
+		}
+		
+	==> VALORES <==
+	
+	-> Por padrão, os valores associados ao membro de uma ENUM são do tipo "int"
+	-> O primeiro membro de um enum tem o valor 0, e o valor de cada membro seguinte é incrementado de 1.
+	
+	==> ACESSO <==	
+	
+	** Nome **
+	
+	-> Um "enum" pode ser acessado usando a sintaxe de ponto: nome_enum.membro	
+	Ex:
+		Consle.WriteLine(DiasDaSemana.Segunda);
+		
+	
+	** Valores **
+	
+	-> Para converter o valor do membro (nome) do enum parao seu tipo numérico, é preciso realizar o cast!
+	Ex:
+		int dia = (int)DiasDaSemana.Quarta // esse int é o cast
+		Console.WriteLine($"DiasDaSemana.Quarta vale: {dia}"); // irá retonar 2 (valor que representa Quarta).
+		
+
+=========== MODIFICADORES DE ACESSO ===========
+
+	-> Os modificadores de acesso são são palavras-chave usadas para especificar o acesso de um membro(campo, propriedade, método,etc)
+		ou um tipo (classe, struct, etc).
+		
+	==> PUBLIC <==
+		-> O tipo ou membro pode ser acessado por qualquer outro código no mesmo assmbbly ou em outro assembly que faz referência a ele.
+		
+	==> PRIVATE <==
+		-> O tipo ou membro pode ser acessado somente pelo ódigo na mesma classe ou struct.
+		
+	==> INTERNAL <==
+		-> O tipo ou membro pode ser acessado por qualquer  código no mesmo assembly, mas não de outro assembly.
+		
+	==> PROTECTED <==
+		-> O tipo ou membro pode ser acessado por qualquer código no assembly, no qual ele é declarado ou de uma classe derivada, em outro assembly.
+		
+	==> FILE <==
+	-> Restringe o escopo e a visibilidade de um tipo de nível superior ao arquivo no qual ele for declarado.
+	
+	
+
+=========== TRATAMENTO DE EXCEÇÃO ===========
+
+	-> Um exceção é um erro que ocorre em tempo de execução em um programa, que viola uma condição que não foi especifcada para aconteceter durante a operação normal.
+	-> Se o programa não fornecer o código para tratar uma exceção, o sistema vai parar a execução do programa com uma mensagem de erro.
+	
+	==> BLOCO TRY-CATCH <==
+		-> Para lidar com exceções podemos utilizar o try-catch
+		
+		EX:
+		
+		try
+		{
+			código que vai ser executado e que pode gerar uma exceção
+		}
+		catch
+		{
+			se ocorrer  um erro, aqui terá o tratamento
+		}
+		
+		
+
+	==> BLOCO TRY-CATCH-FINALLY <==
+		-> O finally sempre será executado (tendo sido lançada ou não uma execução)
+		
+		EX:
+		
+		try
+		{
+			código que vai ser executado e que pode gerar uma exceção
+		}
+		catch
+		{
+			se ocorrer  um erro, aqui terá o tratamento
+		}
+		finally
+		{
+			código  para liberar recursos
+		}
+		
+		
+	==> PROPRIEDADES DA EXEÇÃO (EXCEPTION) <==
+	
+		-> Uma exceção contém diversas propriedades somente leitura que mostram informações sobre a exceção que causou o erro!
+		Ex:
+			Message -> String -> Contém uma mensagem de erro explicando a causa da exceção
+			StackTrace -> String -> Contém a informação que descreve aonde a exceção ocorreu.
+			InnerException -> Exception -> Se a exceção foi lançada por outra exceção, esta propriedade contém a referência  da antiga exceção.
+			
+
+
+=========== TRATAMENTO DE EXCEÇÃO ===========
+
+	-> Um tipo anônimo é um tipo (classe) sem nenhum nome que pode conter apenas propriedades públicas somente leitura.
+	-> Os tipos anônimos fornecem uma maneira conveniente para encapsular um conjunto de propriedades somente leitura, em um único objeto, sem precisar definir
+		explicitamente um tipo.
+	-> O nome do tipo égerado pelo COMPILADOR e não está disponível no código-fonte, e o ipo de cada propriedade é inferido pelo compilador.
+	
+	-> Um tipo anônimo é inicializado usando o operador NEW, em combinação com um inicializador de objetos!
+	-> Como não há nenhuma classe por trás do objeto, deve-se usar a palavra-chave "var" ao recuperar a referência ao seu objeto.
+	
+	EX:
+	
+		var aluno = new
+		{
+			Nome = "Teste",
+			Idade = 42
+		};
+		
+		Console.WriteLine(aluno.Nome + " - " + aluno.Idade + " anos");
+		
+		
+	==> CARACTERÍSTICAS <==
+	
+		-> São os tipos de referência que derivam diretamente de Object.
+		-> Contêm uma ou mais propriedades públicos somente leitura.
+		-> Nenhum outro tipo de membro de classe, como métodos ou eventos, é válido e a expresãao usada para inicializar uma propriedade não pode ser nula,
+			um função anônima ou um tipo de ponteiro.
+		-> Se dois ou mais tipos anônimos tiverem o mesmo número e tipo de propriedades na mesma ordem, o compilador irá tratá-los como o mesmo tipo,
+			e eles compartilham as mesmas informações de tipo gerado pelo compilador.
+		-> Sempre será LOCAL para o métodono qual for definido e não pode ser retornado do método.
+		
+		*** Tipos anônimos são usados em uma cláusula SELECT de uma expressão de consulta, geralmente com LINQ, para retornar um subconjunto das propriedades de cada objeto na sequência de origem.
+		
+
+=========== PARTIAL CLASS ===========
+
+	-> Pode-se crciar classes, interfaces, structs e métodos PARCIAIS, usando o modificador PARTIAL
+	-> O compilador vai combinar todas as implementações definidasa partir dos múltiplos arquivos com extensão ".cs" em uma única classe.
+	
+
+	==> REGRAS <==
+	
+		-> Todas as definições das classes parciais devem estar no mesmo assembly e no mesmo namespace.
+		-> Todas as partes devem possuira mesma acessibilidade, como: public ou private, etc.
+		-> Se qualquer parte for declarada abstract, então toda a classe será declarada do mesmo tipo.
+		-> O modificador partial somente pode ser usado antes da palavra-chave: class, struct ou interface.
+		-> Tipos parciais aninhados são permitidos.
+		-> Os atributs se aplicam a todas as partes da classe.
+		-> As características definidas em qualquer parte estão disponíveis para todas as partes das classes.
+		
+
+=========== COLEÇÕES ===========
+
+	-> As coleções forma uma importante estrutura de dado por meio da qual podemos criar e gerenciar grupos de objetos relacionados.
+	
+		1) Criando Arrays de objetos
+			-> São úteis para criar e trabalhar com um número fixo de objetos do MESMO tipo.
+			
+		2) Criando Coleções de objetos
+			-> Fornecem uma maneira mais flexível de trabalhar com grupos de objetos.
+			
+		=> As coleções não genéricas presentes no namespace System.Collections:
+			*ArrayList
+		
+		=> As coleções Genéricas presentes no namespaces System.Collections.Generic
+			*List
+			
+
+
+
+=========== ARRAYS ===========
+
+	-> Os arrays são um conjunto de elementos de mesmo tipo de dados e de tamanho fixo.
+	-> Um array de uma dimensão também é chamado de vetor, quando tem mais de uma dimensão, chamamos de Matriz.
+	
+	==> Declarando um Array || Alocando na Memórioa || Inicializando <==
+	 
+	TipoDados[] NomeDoArray; || int[]numeros; || int[]numeros = new int[5] {1,2,3,4,5};
+	
+	
+=========== ACESSANDO ELEMENTOS DO ARRAY - LAÇO FOR - ===========
+
+	-> Podemos usar um "laço for" para percorrer elementos de um array
+	-> Usamos a propriedade "Length", da classa Array, para definir o tamanho do Array no laço for.
+	-> A classe Array está no namespace System  e fornece diversas propriedades e métodos para trabalhar com um array.
+	
+	Ex: (FOR)
+	
+		for ( int i= 0; i < numeros.Length; i++)
+		{
+			Console.WriteLine($"Elementos de índice {i}: {numeros[i]}");
+		}
+		
+
+=========== ACESSANDO ELEMENTOS DO ARRAY - LAÇO FOREACH - ===========
+
+	-> Podemos usar um laço FOREACH para ler e recuperar elementos de um Array, sem precisar usar o índice e nem definir o tamanho do array.
+	-> A instrução FOREACH permite executar uma instrução ou um bloco de instruções para cada elemento presente em uma coleção.
+	
+	Ex: (FOREACH)
+	
+		foreach (tipo elemento in coleção)
+		{
+			// instrução ou bloco de instruções
+		}
+		
+	-> Na declaração do foreach, entre parêteses criamos um elemento do tipo utilizado na coleção e, com o operador in, informamos a coleção a ser percorrida.
+	
+	
+	
+=========== CLASSE ARRAY ===========
+
+	-> Fornece métodos para criar, manipular, pesquisar e classificar arrays, servindo assim, como classe basepar os arrays.
+	
+	==> Alguns desses métodos <==
+	
+		1) REVERSE -> Inverte a sequência de um array UNIDIMENSIONAL
+			Ex: Array.Reverse(nome_array);
+			
+		2) SORT -> Ordena os itens de um array
+			Ex: Array.Sort(nome_array);
+			
+		3) BINARYSEARCH ->  Faz a busca em um array ordenado de um valor usando o algoritmo de busca binário. Se for encontrado será retornado
+			o valor do índice do elemento, caso contrário será retornado um número negativo.
+			Ex: Array.BinarySearch(nome_array, objeto);
+			
+			
+=========== MODIFICADOR PARAMS ===========
+
+	-> Usando a palavra-chave "params", podemos especificar um parâmetro de método que aceita um número variável de argumentos.
+		O tipo de parâmetro deve ser um array unidimensional.
+		
+	==> CARACTERÍSTICAS <==
+	
+		-> Nenhum parâmetro adicional é permitido após a palavra-chave params em uma declaração de método.
+		-> Apenas uma palavra-chave params é permitida em uma declarção de método.
+		-> Deve sero último argumento da lista de parâmetros do método.
+		-> Se o tipo declarado do parâmetro params não for um array unidimensional, irá ocorrer um erro do compilador.
+		
+		Ex:
+			MeuMetodo(string a, int b, int c = 1, params int [] numeros) 
+			{}
+			
+			
+=========== ARRAYS COM DUAS DIMENSÕES ===========
+
+	-> Um array bidimensional pode ser pensado como uma tabela, que tem um numero x de linhas e um numero y de colunas.
+		Ex: 
+			int[3,3] a ; (array bidimensional, com 3 linhas e 3 colunas, com o seu nome 'a')
+			
+	==> Declarando <==
+	
+	int [,] array1 = new int[3,3];
+	
+	
+=========== ARRAYS BIDIMENSIONAL - LAÇO FOR ===========
+
+	-> Pode-se usar o laço for para ler e recuperar valores dos elementos de um array bidimensional, definido um laço for para cada uma das dimensões do array.
+	-> Para obter as dimensõesdo array, usa-se o método GetLength(n), onde a primeira dimensão inicia com zero (n=0).
+	
+	
+=========== ARRAYS BIDIMENSIONAL - LAÇO FOREACH ===========
+
+	-> A instrução foreach processa elementos em ordem crescente de índice, começando com índice 0 e terminando com índice com valor Length -1
+	-> Os elementos são percorridos de modo com que os índices da dimensão mais a direita são aumentados primeiro, em seguida, os da esquerda.
+	
+	
+	
+=========== ARRAY LIST ===========
+
+	-> É uma coleção não genérica, cujo o tamanho pode ser alterado dinamicamente e que armazena elementos de váris tipos de dados.
+	-> Permite alocação dinâmica de memória, inclusão, pesquisa e classificação de elementos na coleção.
+	-> Está no namespace System.Collections, possui 43 construtores usados para criar um ArrayList.
+	
+	==> ArrayList() -> Usado para criar uma instância da classe ArrayList, que está vazia e sem capacidade inicial (Capacity e Count).
+	
+	==> ArrayList(Int32) -> Usado para criar uma instância da classe ArrayList que está vazia e TEM a capacidade inicial especificada.
+	
+	==> ArrayList(ICollection) -> Usado para criar uma lista de array inicializada com os elementos da coleção especificada e tendo a mesm capacidade incial que é copiada da coleção.
+
+	
+	==> DECLARAÇÃO, INSTANCIAÇÃO E INCLUSÃO DE ELEMENTOS <==
+	
+		-> Para criar um ArrayList devemos utlizar o "New" e a seguir usar o método "Add" para incluir elementos.
+		
+		Formas mais utilizadas:
+		
+		ArrayList lista = new ArrayList(); -> Mais antiga. (capacity  = 0  e Count = 0)
+		ArrayList lista = new (); -> Mais atual. (capacity  = 0  e Count = 0)
+		
+		ArrayList lista = new ArrayList(5); -> Mais antiga. (capacity  = 5  e Count = 0)
+		ArrayList lista = new (5); -> Mais atual. (capacity  = 5  e Count = 0)
+		
+		** Resume: Podemos incluir vários elementos e de diferentes tipos! **
+		
+		
+	==>	MÉTODO ADD <==	
+	
+	-> Permite incluir um elemento ao final de uma ArrayList
+	
+	Ex:
+	
+		ArrayList lista = new ();
+		
+		lista.Add("Paulo");
+		lista.Add(4.5);
+		lista.Add(5);
+		lista.Add(true);
+		lista.Add(" ");
+		lista.Add(null);
+		
+	
+	==>	MÉTODO Inicializadores de objetos <==
+		
+	Ex:
+	
+		var lista = new ArrayList() 
+			{
+				"Paulo", 4.5, 5, true, " ", null
+			};
+			
+	
+	==>	Insert(int index, Object value <==
+		
+		-> Permite incluir um elemento em uma posição qualquer, usando um índice específico
+		
+		
+
+	==>	ADICIONAR UMA COLEÇÃO DE ELEMENTOS <==
+	
+	-> AddRange(ICollection): Adiciona a coleção de elementos ao final da ArrayList.
+	
+	-> InsertRange(int index, ICollection): Adiciona a coleção de elementos na posição desejada.
+	
+	
+	==>	REMOVENDO ELEMENTOS DO ARRAYLIST <==
+	
+		-> Remove(Object value) - Remove a primeira ocorrência de um objeto específico.
+		-> RemoveAt(int index) - Remove o elemento no índice especificado.
+		-> RemoveRange(int index, int count) - Remove um número definido de elementos a partir de um índice especificado.
+		
+
+	==>	VERIFICANDO SE UM ELEMENTO ESTA NA COLEÇÃO <==
+	
+		-> Contains(), determina se um elemento especificado existe na ArrayList ou não. O método retorna True se existir e false se não existir.
+		
+	
+	==>	ORDENAÇÃO E REMOÇÃO DE TODOS OS ELEMENTOS <==
+	
+		-> Para ORDENAR elementos de MESMO tipo, usamos o método Sort().
+		-> A ordenação acontece de forma Ascendente.
+		
+		-> Para remover TODOS os elementos, sem alterar sua capacidade, usa-se o método Clear().
+		
+		
+=========== COLEÇÃO LIST<T> ===========
+
+	-> A coleção List<T>, é uma coleção de OBJETOS e fortemente TIPADA, que podem ser acessados usando um índice que incia em zero.
+	-> Possui métodos para classificar, pesquisar, modificar e manipular listas.
+	-> A classe List<T> pode ser usada para criar uma coleção de tipos diferentes, onde "T" representa o tipo do objeto que pode ser: inteiro, string, double, etc...
+		ou também um TIPO COMPLEXO, como por exemplo, uma classe!
+		
+	-> Uma List<T> pode conter elementos do tipo especificado por T, fornece verificação de tipo em tempo de compilação.
+	-> Os elementos podem ser adicionados a uma List<T> através dos métodos: Add(), AddRange(), Insert() e InsertRange().
+	-> Uma List<T> é uma estrutura dinâmica, que pode ser redimensionada.
+	-> Uma List<T> inicia vazia e seus elementos são alocados sob demanda.
+	-> Uma List<T> é um "reference-types" -> uma variável refere-se ao objejto real, que deve ser instanciado na memória heap.
+	
+	
+	
+=========== COMPORTAMENTO DE LIST<T> COMPARANDO COM ARRAYLIST ===========
+
+	-> Value-Type: Armazena diretamente os dados atribuídos na memória STACK.
+		EX: int, double, float, long, DateTime, struct, etc.
+		
+	-> Reference-Type: Armazena uma referência para os dados atribuídos na memória HEAP.
+		Ex: string, Array, ArrayList, List<T>, class, classes definidas pelo usuário, etc.
+		
+	-> Boxing: É a conversão de um Value-Type para um Reference-Type
+	
+	-> UnBoxxing: É quando um Reference-Type volta a ser um Value-Type
+	
+	
+==> MÉTODOS LIST<T> <==
+
+	-> Find:
+		- Retorna o primeiro elemento que corresponde ao predicado* fornecido.
+	
+	-> FindLast:
+		- Retorna o último elemento que corresponde ao predicado* fornecido.
+		
+	-> FindIndex:
+		- Retorna o índice do primeiro elemento que corresponde ao predicado* Fornecido.
+		- Caso haja correspondência, tera o retorno de -1.
+		
+	-> FindAll:
+		- Recupera todos os elementos que correspondem as condições definidas pelo especificado.
+		
+	OBS:
+		predicado* -> Função ou método de argumento único que retorna um valor booleano.
+		
+
+==> LIST<T> e principais metodos de consultas LINQ <==
+	
+	Any() - Determina se qualquer elemento de uma sequência existe ou atende a uma condição. (Determina se a coleção contém elementos).
+	
+	FirstOrDefault() - Retorna o primeiro elemento da coleção que satisfaz uma condição opcional. Retorna o valor padrão do tipo caso não encontre elemento.
+	
+	OrderBy() - Classifica os elementos na coleção em ordem crescente com base em uma determinada condição, e retorna a coleção classificada.
+	
+	ToList() - Recebe um tipo IEnumerable e o converte em um tipo List.
+	
+	Where() - Retorna todos os elementos da coleção que satisfazem uma determinada condição. (execução adiada).
+	
+	
+=========== INDEXADORES ===========
+
+	-> É um membro da classe que permite acessar uma variável de membro da classe ou struct, usando os recursos de um array.
+	-> Ao definir um indexador para uma classe, essa classe se comporta como um array virtual e podemos acessar a "instância da classe", usando o operador de acesso ao array([])
+		e também usar índices para acessar e atribuir valores como nos arrays.
+		
+
+=========== CLASSE RANDON ===========
+
+	-> Usada para gerar números pseudo-aleatórios, com base no valor de uma semente (seed).
+	-> Por padrão, o construtor sem parâmetros da classe Randon, usa o relógio do sistema para gerar o valor da semente.
+	-> A geração de números aleatórios começa a partir de um valor de semente e se a mesma semente for usada repetidamente, a mesma série de números será gerada.
+	
+	
+=========== POO - PROGRAMAÇÃO ORIENTADA A OBJETOS ===========
+	
+	-> ABSTRAÇÃO
+	-> ENCAPSULAMENTO
+	-> HERANÇA
+	-> Polimorfismo
+	
+	
+	==> ABSTRAÇÃO <==
+	
+		-> Forma de reduzir a complexidade e tornar o projeto e a implementação mais eficientes em sistemas complexos de software.
+	
+	==> ENCAPSULAMENTO <==
+	
+		-> É o processo no qual o acesso direto aos dados de um objeto não é permitido.
+		-> Adiciona segurança à aplicação pelo fato de esconder as propriedades dos objetos do acesso direto, criando uma espécie de caixa preta.
+		-> No encapsulamento, o objeto esconde seus dados de outros objetos e permite que os dados sejam acessados por intermédio de seus próprios métodos.
+		
+	==> HERANÇA <==
+	
+		-> Recurso que permite que seja criado novas classes, as quais estendem e modificam, o comportamento definido em classes já existentes.
+		-> A classe dos membros HERDADOS é chamada de "Classe Base" - PAI - e a classe que herda esses membros é chamada de "Classe Derivada" - FILHA - .
+		-> A Classe Base fornece uma funcionalidade comum (dados e comportamento) e as Classes Derivadas herdam ou substituem essa funcionalidade.
+		
+		** A classe base e a classe derivada podem possuir seus próprios construtores.
+		** A classe derivadao NÃO HERDA o construtor da classe base, entretanto, pode invoca-lo.
+		** A Classe Object é a Classe Base de TODAS as demais.
+			-> Alguns métodos da Classe Object (disponíveis a TODAS as suas herdeiras)
+				- Equals: Suporta comparações entre objetos.
+				- GetHashCode: Gera um número HASH para o objeto.
+				- ToString: Retorna a representação do objeto como uma String.
+				- GetType: Retorna informação sobre o tipo.
+		** Uma Classe Derivada só pode HERDAR de UMA Classe Base.
+		**	Virutal e Override: Utilizado quando queremos que um membro da sublcasse subsitua um membro como MESMO nome na clase Base.
+			Ex:
+				Na classe BASE eu acrescento o o "virtual"
+				propriedade-> public VIRTUAL string Saudacao() = $"Oi, eu sou o {Nome}";
+				Na classe DERIVADA, eu acrescento "override"
+				propriedade-> public OVERRIDE string Saudacao() = $"Oi, eu sou o {Nome} do curso de: {curso}";
+		** Modificador SEALED -> Quando aplicado em uma classe, o modificador Sealed IMPEDE que outras classes possam herdar os campos.
+		
+		** TIPOS DE HERANÇCA **
+		
+			-> Herança Simples: há uma classe base e uma classe derivada
+			-> Herança Hierarquica:  Há mais de uma classe derivada para a classe base
+			-> Herança Multinível: Ocorre quando uma classe derivada é de outra classe derivada
+			-> Herança Multipla: Quando temos uma classe Base  e uma classe Derivada que IMPLEMENTA uma ou mais interfaces.
+			
+		
+	==> POLIMORFISMO <==
+	
+		-> Habilidade de objetos distintos  responderem a mesma mensagem, a sua própria maneira.
+		-> Pode-se enviar a mensagem mover para cada objeto semelhante a um veículo e cada um vai se comportar de maneira diferente para atender a sua solicitação.
+		-> Pode-se invocar métodos da classe derivada através da classe base em tempo de execução, e, permitir que classes forneçam diferentes implementações de métodos
+			que são chamados com o memso nome
+			
+	==> UPCASTING <==
+	
+		-> Converte um objeto de um tipo especializado (classe derivada) para um tipo mais geral (classe base)
+		-> É uma atribuição de um objeto, de uma classe filha para uma referência de uma classe base.
+		-> É uma operação implícita, sendo sempre possível de ser realizada.
+		
+		Ex: 
+		
+			class Animal { }
+			class Dog : Animal { }
+			class Cat : Animal { }
+		
+		Aqui, Animal é a classe base e Dog e Cat são classes derivadas. Agora, se você tem um objeto do tipo Dog e deseja convertê-lo para o tipo Animal, 
+		você está fazendo upcasting:
+		
+		Dog myDog = new Dog();
+		Animal myAnimal = myDog; // Upcasting
+		
+		Nesse caso, myDog é do tipo Dog, e myAnimal é do tipo Animal. 
+		O upcasting é seguro porque um Dog é um tipo de Animal.
+		
+	==> DOWNCASTING <==
+		
+		-> Converte um objeto de um tipo mais geral (classe base) para um tipo mais especializado (classe derivada)
+		-> É uma atribuição de um objeto da classe base para um objeto da classe derivada.
+		-> É uma operação que deve ser realizada de forma EXPLÍCITA, pois pode falhar e lançar uma exceção, não sendo possível de ser realizada.
+		
+	Ex: 
+		
+		class Animal { }
+		class Dog : Animal { }
+		class Cat : Animal { }
+		
+		Se você tem um objeto do tipo Animal e sabe que ele é realmente um Dog, você pode converter explicitamente o tipo Animal para Dog, 
+		fazendo downcasting:
+		
+		Animal myAnimal = new Dog();
+		Dog myDog = (Dog)myAnimal; // Downcasting
+		
+		Nesse caso, myAnimal é do tipo Animal, mas sabemos que o objeto real é um Dog. 
+		Portanto, fazemos downcasting para convertê-lo explicitamente para o tipo Dog.
+		
+		
+		
+	==> OPERADOR AS <==
+		
+		-> O operador AS é um operador de conversão de tipos (referência e anuláveis).
+		-> Usado para realizar conversão entre tipos de referência ou tipos anuláveis compatíves
+		-> Retorna o objeto quando ele é compatível com o tipo dado e retorna null se a conversão não for possível, ao invés de gerar uma exceção.
+		-> Ao realizar o downcasting (base -> derivada), ele avalia o resultadopara null ao invés de lançar uma exceção caso a operação não seja possível.
+		
+			
+	==> OPERADOR IS <==
+		
+		-> Não faz conversão, apenas verifica se os tipos são compatíveis
+		-> O operador IS é usado para verificar se o tipo de um objeto é compatível com o tipo especificado ou não.
+		-> Retorna true se o objeto especificado for do mesmo tipo, caso contrário, retorna false.
+		-> Retorna false também para os objetos nulos.
+		-> O operador 'is', é um operador do tipo "booleano", de comparação de tipos.
+		
+	
+		==> MODIFICADOR ABSTRACT <==
+		
+		-> O modificador abstract indica que o recurso que está sendo modifcado tem ma implementação auente ou incompleta.
+		-> Pode ser utilizado com: Classes, Métodos, Propriedades, Indexsadores e Eventos.
+		-> IMPORTANTE: usa-lo em uma declaração de classe, indica que a classe destina-se penas a ser uma classe base de outras classes, NÃO PODENDO SER INSTANCIADA.
+		-> Membros marcados com o modificador abastract devem ser implementados por classes não abstratas, que derivam de uma classe abstrata.
+		
+		---- CLASSE ABSTRATA ----
+		** Uma classe abstrata não pode ser instanciada (não podemos criar objeto).
+		** A classe abstrata pode ser herdada.
+		** A classe abstrata pode conter métodos comuns E abstratos.
+		** As classes derivadas de uma classe abstrata são obrigadas a implementar os seus métodos abstratos.
+		
+		---- MÉTODO ABSTRATO ----
+		** Não possui implementação na classe abstrata.
+		** Possui somente a definição de sua assinatura.
+		** É implicitamente um método virtual.
+		** Sua implementação é feita na classe derivada.
+		** As propriedades abstratas se comportam como os métodos abstratos.
+		
+		
+		==> INTERFACE <==
+		
+			-> É um tipo de classe que pode conter as assinaturas de métodos, eventos, propriedades e indexadores.
+			-> Pode conter métodos públicos e estáticos que contém uma implementação.
+			-> Os membros da interface são públicos por padrão, mas podemos troca-lo para qualquer um como: Protecetd, internal, private, etc.
+			-> Uma interface não pode conter campos de instância, construtores de instância ou finalizadores.
+			-> Para implementar um membro de interface, o membro correspondente da classe de implementação deve ser público, não estático e ter o mesmo
+				nome e assintatura do membro de interface.
+				
+			** Uma interface não pode ser instanciada diretamente e seus membros abstratos são implementados por qualquer classe ou struct que implemente sua interface.
+			** Uma interface funciona como um contrato entre si e qualquer classe que a implementa.
+			** Uma classe ou struct pode implementar(herdar) várias interfaces.
+			** Um classe que implementa uma interface é obrigada a implementar todos os seus membros abstratos.
+			** Uma classe pode herdar uma clase base e também implementar uma ou mais interfaces.
+			** Se uma classe base implementa uma interface, qualquer classe é derivadada classe base herda essa implementação.
+			** Uma interface pode herdar de uma ou mais interfaces. A interface derivada herda os membros de suas interfaces base.
+			
+			
+		==> COMPOSIÇÃO E AGREGAÇÃO <==
+		
+			-> Relacionamento do tipo = TEM UM =.
+			-> São técnicas que permitem que uma classe "contenhha" um ou mais objetos de outras classes para formar um grande objeto realizando algumas funcionalidades específicas.
+			-> O contêiner é a superclasse, ou classe pai, e as classes contidas na superclasse são subclasses ou classes filhas. Onde a classe pai e as classes filhas possuem um relacionamento "tem-um"
+			
+			
+		---- COMPOSIÇÃO ----
+		
+			-> Ocorre quando um objeto de uma classe é COMPOSTO de um ou mais objetos de outras classes.
+			-> É formado quando uma classe tem uma referência a otra classe como uma propriedade de instância.
+			-> Uma classe que contém a referência aoutra classe é a "Classe Pai", sendo a proprietária da "Classe Filha".
+			-> A classe filha não existe sem a classe Pai.
+			
+		---- AGREGAÇÃO ----
+		
+			-> É um tipo especial de composição, onde objetos de uma classe podem conter um ou mais objetos de outra classe.
+			-> Relacionamento do tipo = TEM UM =
+			-> A parte e o todo são independentes, ou seja, aparte pode existir sem o todo.
+			
+		** Toda agregação e composição é um tipo especial de associação.
+		** Uma agregação é uma associação mais fraca.
+		** Uma composição é uma associação mais forte.
+		** As composições permitem representar sistemas de objetos, onde todos os componentes devem estar presentes para que seja válida.
+		** As agregações permitem representar relações entre objetos que podem estar vazias ou conter um número váriavel
+	
+	
+	
+	==> POLIMORFISMO <==
+		
+		-> Princípio pelo qual duas ou mais classes derivadas de uma mesma superclasse podem invocar métodos que tem a mesma identificação (assinatura) mas comprotamentos distintos,
+			especilizados para cada classe derivada, usando para tanto uma referência a um objeto do tipo da superclasse.
+		-> Invoca-se métodos da classe derivada através da classe base em tempo de execução.
+		-> Permite que classes forneçam diferentes implementações de métodos que são chamados com o mesmo nome.
+		
+	-- Overloading ou Sobrecarga --
+	
+		-> Polimorfismo em tempo de compilação.
+		-> Utiliza sobrecarga de métodos e operadores, sendo também chamado de ligação precoce (early binding).
+		-> A utilização da sobrecarga(Overloading) de métodos realiza a tarefa cocm distintos parâmetros de entrada.
+		-> Permite que classes forneçam diferentes implementações de métodos que são chamados pelo mesmo nome
+		
+	-- Overriding ou Sobrescrita --
+		
+		-> Polimorfismo em tempo de execução.
+		-> Usando herança e métodos virutais.
+		-> Quando sobrescrevemos (override) os métodos virtuais, estamos alterando o comportamento dos métodos para a classe derivada.
+			conhecido como Ligação Tardia (late binding).
+			
+	** IMPLEMENTAÇÃO **
+	
+		=> POLIMORFISMO COM HERANÇA	
+			
+			-> Classes derivadas sobrescrevendo os membros da classe base
+		
+		=> Polimorfismo COM INTERFACE
+		
+			-> Classes que implementam a interface com comportamentos diferentes.
+			->Métodos com mesmo nome nas classes mas funcionalidades diferentes.
+			
+		=> POLIMORFFISMO COM CLASSE ABSTRATA
+		
+			-> As classes derivadas incluem os detahes de implementação nos métodos abstratos.
+			
+			
+	
+	==> STACK<T> <==
+	
+		-> É uma coleção genérica de tamanho variável que funciona com base no princípio LIFO (LAST IN FIRST OUT - último a entrar, primeiro a sair).
+		-> Pode ter elmentos duplicados e pode aceitar null como valores.
+		-> Útil quando precisa-se de armazenamento temporário.
+		-> Pode conter elementos do tipo T especificado (ou seja, pode conter um tipo string, int, double, etc)
+		-> Fornece verificação de tipo em tempo de compilação e não execeuta boxing-unboxing
+		-> Elementos são adicionados através do método Push().
+		-> Para recuperar elementos, usa-se os métodos Pop() e Peek()
+		
+		*** MÉTODOS **
+		
+			PUSH() -> Inclui eleento no topo da pilha
+			POP() -> Remove e retornar um elemento do topo da pilha
+			PEEK() -> Retorna o elemento do topo da pilhar sem removê-lo
+			CONTAINS() -> Verifica se existe um elemento na pilha (true or false)
+			CLEAR() -> Remove todos os elementos da pilha.
+			TOARRAY() -> Copia a pilha em um novo array unidimensional
+			
+
+
+	==> QUEUE<T> <==
+	
+		-> Pode conter elementos tipo T especificado 
+		-> É uma coleção que atua ao estilo FIFO(First In First Out).
+		-> Fornece verificação de tipo em tempo de compilação e não execeuta boxing-unboxing
+		-> Elementos adicionados através do método Enqueue()
+		-> Recuperando elementos através dos métodos Dequeue() e Peek()
+
+
+
+	==> READONLYCCOLLECTION<T> <==
+		
+		-> Count - Obtém o numero de elementos na instância da coleção somente leitura.
+		-> Item[] - Obtém um elemento no índice especificado.
+		-> Items - Retornar a IList<T> que a coleção envolve(protected).
+		-> IndexOf(T item) - Pesquisa o objeto especificado e retornar o índice baseado em zero da primeira ocorrência em toda a coleção.
+		
+		
+
+
+	==> DELEGATE <==
+	
+			** SingleCast Delegate **
+			-> Delegate que referencia e invoca um único método!
+			
+	
+		-> É um tipo que representa referências a métodos com uma 'lista de parâmetros' e 'um tpo de retorno' específicos.
+		-> Ao instancia-lo, pode-se associar a sua instância a qualquer método com uma assinatura compatível e tipo de retorno.
+		-> São usados para implementar eventos, métodos de retorno de chamada e para passar métodos como argumentos para outros métodos.
+		-> Pode-se definir variáveis de um tipo delegate que podem se referir a qualquer método que tiverem a mesma assinatura do delegate
+		
+		** Para se trabalhar com DELEGATES **
+		
+			-> Declarar um delegate
+			-> Definir um método de destino
+			-> invocar ou chamar um delegate
+			
+			
+			
+		** MultiCast Delegate **
+			-> Delegate que referencia e invoca mais de um método!	
+		
+		-> Pode-se encapsular mais de uma referência de método em um delegate.
+		-> Quando invoca-se o multicast delegate, todos os métodos referenciados pelo delegate serão invocados em ordem.
+		-> Multicast delegate é útil em situações em que várias ações precisam ser executadas quando um evento ocorrer
+		
+		-> Para criar um multicast delegate:
+		
+			- Define-se um delegate que representa a assinatura dos métodos que serão registrados.
+			- Cria-se uma instância do delegate e registra-se os métodos desejados usando o operador "+=" para adicionar cada método na lista de métodos a serem chamados.
+			- Pode-se também, utilizar o operador "-=" para excluir um método da lista.
+		
+		
+	
+	==> MÉTODOS ANÔNIMOS <==
+	
+		-> Função Anônima não possui nome e pode ser definida usando a palavra-chave "delegate".
+		-> A Função Anônima é uma declaração "in-line", ou expressão que pode ser usada sempre que um tipo de delegate for esperado.
+		-> Pode-se usa-la para inicializar um delegate nomeado ou passar um método anônimo em vez de um tipo de delegate nomeado como um parâmetro de método.
+		
+
+
+	==> EXPRESSÃO LAMBDA <==
+	
+		-> É uma função anônima que pode ser usada para crciar delegates ou expressões de árvores de expressão.
+		-> É uma maneira mais curta de representar um "método anônimo" usando uma sintaxex especial.
+		
+		Definição:
+			- (parâmetros de entrada) =>  {expressão ou bloco de instrução};
+			
+
+	==> DELEGATE PRÉ-DEFINIDOS <==
+	
+		** Predicate<T> **
+			- Representa um método que recebe um único argumento do tipo T e retorna um valor booleano. 
+			- Pode ser usado para testar se um objeto satisfaz uma condição específica.
+			
+		
+		** Action<T> **
+			- Representa um método que não retorna um valor, mas pode receber até 16 argumentos de entrada.
+			- É útil para representar um método que executa uma ação, sem retornar nenhum valor.
+			- Pode receber até 16 argumentos do tipo T.
+			- Ele encapsula um método que não retorna um valo(void) e pode receber de zero a 16 parâmetros de entrada
+			
+			
+		** Func<T,TResult> **
+			- Recebe de um até 16 argumentos do tipo T de entrada e retorna um valor do tipo TResult.
+			- É útil para representar um método que executa uma operação e retorna um resultado.
+			- T1,T2,... - São os tipos dos argumentos do método encapsulado por este delegate.
+			-TResult - É o tipo de retorno do método encapsulado por esse delegate
+			
+			
+			
+
+	==> EVENTOS <==
+	
+		-> Mecanismos que permitem que uma classe ou objeto notifique outras classes ou objetos quando alguma ação ocorre.
+		-> Publisher: Classe que envia (ou aciona) o evento.
+		-> Subscribers: Classe que recebe (ou manipulam) os eventos.
+		-> Pode haver vários assinantes de um único evento.
+		-> Um publicador, quase sempre, gera um evento quando alguma ação ocorre.
+		-> Os assinantes, que estão interessados em receber uma notificação quando uma ação ocorrer, devem se registrar em um evento e tratá-lo.
+		-> Os métodos das classes que manipulam o evento (Subscribers) geralmente são chamados de manipuladores de eventos.
+		
+		
+
+	==> EVENTHANDLER E EVENTHANDLER<TEVENTARGS> <==
+	
+	1) EventHandler
+	
+		-> Representa um método que vai manipular um evento que não possui dados
+		
+		public delegate void EventHandler(object? sender, EventArgs e);
+		
+			- object? sender -> Contém uma referência ao objeto que gerou o evento (fonte do evento)
+			- e EventArgs -> Um objeto que não contém nenhum dado de um evento.
+			
+			
+	2) EventHandler<TEventArgs>
+	
+		-> Representa um método que vai manipular um evento que POSSUI dados.
+		
+		public delegate void EventHandler<TeventArgs>(object? sender, TEventArgs e);
+		
+			- TEventArgs -> O tipo dos dados do evento gerado pelo evento.
+			- object? sender -> Contém uma referência ao objeto que gerou o evento (fonte do evento)
+			- e EventArgs -> Um objeto que contém os dados de um evento.
+			
+			
+			
+			
+			
+	==> MÉTODOS DE EXTENSÃO <==
+	
+		-> Permitem estender a funcionalidade de um tipo existente, sem criar um novo tipo derivado, recompilar ou modificar o tipo original.
+		-> São um tipo especial de método estático, chamado como se fosse um método de instância no tipo estendido.
+		-> Úteis para estender a funcionalidade de tipos existentes, como classes da biblioteca padrão ou classes definidas por outras bibliotecas de terceiros.
+		
+	** criando o método de extensão - Roteiro - **
+	
+		-> Criar uma classe estática, para conter o método de extensão. Esta classe deve estar visível para o código cliente.
+		-> Implementar o método de extensão como um método estático, com pelo menos a mesma visibilidade da classe que o contém.
+		-> O primeiro parâmetro do método específica  o tipo no qual o método opera. Ele deve ser precedido pelo modificador THIS.
+		-> No código de chamada, adicione uma diretiva using para especifcar o namespace que contém a classe do método de extensão.
+		-> Chame os métodos como se fossem métodos de insância no tipo.
+		
+		
+		
+	==> LINQ - LANGUAGE INTEGRATED QUERY <==
+	
+		-> Fornece uma sintaxe de consulta comum para consultar diferentes fontes de dados.
+		-> Utiliza menos cõdigo em comparação com a abordagem tradicional de consulta.
+		-> Fornece verificação de erros em tempo de compilação, bem como suporte de inteligência no VS vitando errosem tempo de execução.
+		-> Fornece muitos métodos embutidos que podemos usar para realizar diferentes operações, como filtragem, ordenação, agrupamento, etc.
+		
+		** LINQ - API - **
+		
+			-> Consultas LINQ usam métodos de extensão para classes que implementam a interface IEnumerable ou IQueryable.
+			-> Pode-se chamar qualquer método LINQ, em qualquer objeto que implemente IEnumerable<T> e IQueryable<T>.
+		
+		** SINTAXE DAS CONSULTAS **
+		
+			-> Query Syntax: É escrita usando uma sintaxe semelhante ao SQL, com palavras-chave como: Select, From, Where, Group by, Order by, etc.
+			-> Method Syntax: É escrita usando "métodos de extensão" definidos nas interfaces (IEnumerable e IQueryable).
+			
+		** LOCALIZANDO UM ELEMENTO **
+		
+			-> First: Retorna o PRIMEIRO elemento da sequência ou o elemento que atenda a uma condição e lança uma exceção se nenhum elemento for encontrado.
+			-> FirstOrDefault: Retorna o primeiro elemento da sequência, ou o elemento que atenda uma condição. Retorna o valor padrão se nenhum elemento for encontrado.
+			
+
+
+
+	==> CLASSE FILE <==
+	
+		-> Está no namespace System.IO
+		-> Usado para realizar operações de leitura e gravação de arquivos.
+		-> Fornece métodos estáticos para: Criar, Copiar, Excluir, Mover e Abrir Arquivos.
+		-> Fornece métodos para trabalhar com diretórios, como: Criar, Excluir e Mover Diretórios.
+		
+		** MÉTODOS **
+		
+			== CRIAÇÃO E MANIPULAÇÃO DE ARQUIVOS ==
+			
+			-> Create: Cria um novo arquivo vazio ou sobrescreve um arquivo existente.
+			-> Delete: Exclui um arquivo.
+			-> Exists: Verifica se um arquivo existe.
+			-> Copy: Copia um arquivo existente para um nov arquivo. Não sobrescreve arquivo de mesmo nome.
+			-> Move: Move um arquivo para um novo local, permitindo fornecer um novo nome.
+			
+			
+			
+			== LEITURA E ESCRITA DE ARQUIVOS ==
+			
+			-> ReadAllText: Abre o arquivo, lê todo o conteúdo de um arquivo de texto e retorna uma string e fecha.
+			-> ReadAllBytes: Lê todo o conteúdo de um arquivo binário e retorna um array de bytes.
+			-> WriteAllText: Cria um novo arquivo e grava uma string em um arquivo de texto e fecha o arquivo.
+			-> AppendAllText: Abre o arquivo, anexa uma string e fecha o arquivo (se o arquivo não existir, ele é criado!)
+			
+			
+
+	==> CLASSE FILEINFO <==
+	
+		-> Existe no namespace System.IO.
+		-> Usada para obter informações detalhadas sobre um arquivo específico ( tamanho, nome, data de criação/modificação, etc)
+		-> Permite também realizar operações em um arquivo específico (abrir, copiar, mover e excluir).
+		-> Requer uma INSTÂNCIA DA CLASSE, para realizar as operações.
+		-> Quando as propriedades são recuperadas pela primeira vez, FileInfo chama o método Refresh e armazena em cache as informações sobre o arquivo.
+		
+
+
+
+	==> CLASSE DIRECTORY E DIRECTORYINFO <==
+	
+		-> São usadas par manipular diretórios em C# e ambas permitem a criação, exclusão, cópia, movimentação e renomeação de diretórios.
+		-> A classe Directory é uma classe estática! Fornece métodos estáticos para trabalhar com diretórios.
+		-> A classe DirectoryInfor, é uma classe não estática! Representa um diretório em uma instância de objeto.
+		
+
+	==> CLASSE PATH <==
+	
+		-> Presente no Namespace System.IO.
+		-> Executa operações em instâncias de String que contêm informações do caminho de um arquivo ou diretório.
+		-> Fornece méotodos e propriedades úteis para manipular camcinhos de uma forma que é compatível com o sistema operacional no qual o código está sendo executado.
+		
+
+	==> (obsleta) SERIALIZAÇÃO E DESSERIALIZAÇÃO BINÁRIA <==
+	
+		-> Na serialização binária, os campos públicos e privados do objeto, o nome da classe, o assembly que contém a classe, são todos convertidos em um fluxo de bytes.
+		-> Quando o objeto for desserializado, um clone exado do objeto original será criado.
+		-> Se eu quiser serializar uso o atributo: SERIALIZABLE.
+		-> Se eu não quiser serializar algum campo, devo usar o atributo: NONSERIALIZED.
+		
+		
+	==> SERIALIZAÇÃO E DESSERIALIZAÇÃO XML <==
+	
+		-> Na serialização XML é preciso ter um CONSTRUTOR PUBLICO SEM PARÂMETRO na classe que for serializar.
+		-> Na desseriaização, precisa criar um objeto do tipo XmlSerializer e usar o método Deserialize
+		
+		
+	
+	==> SERIALIZAÇÃO E DESSERIALIZAÇÃO JSON <==
+	
+		-> Na serialização JSON é preciso ter um CONSTRUTOR PUBLICO SEM PARÂMETRO na classe que for serializar.
